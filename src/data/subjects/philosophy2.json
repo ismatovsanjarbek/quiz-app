@@ -1,0 +1,3004 @@
+{
+  "questions": [
+    {
+      "text": "What is philosophy?",
+      "options": [
+        "#A system of general views on the world, man's place in it, and general principles of being and cognition",
+        "A special mathematical science studying numeric formulas and statistical data",
+        "A religious doctrine focused exclusively on divine rituals and worship",
+        "A purely economic theory analyzing market relations and price index"
+      ],
+      "id": 1
+    },
+    {
+      "text": "What are the main functions of philosophy?",
+      "options": [
+        "#Worldview, methodological, gnoseological, critical, axiological, social, prognostic",
+        "Mathematical, biological, physical, chemical, geological",
+        "Only religious and mythical functions",
+        "Purely commercial and industrial management functions"
+      ],
+      "id": 2
+    },
+    {
+      "text": "What are the only historical types of worldview?",
+      "options": [
+        "#Everyday (ordinary), religious, philosophical, and scientific",
+        "Classical, quantum, relativistic, and atomic",
+        "Feudal, capitalist, socialist, and communist",
+        "Ancient, medieval, modern, and postmodern"
+      ],
+      "id": 3
+    },
+    {
+      "text": "When does philosophy arise (in which formation)?",
+      "options": [
+        "#Exact number/date established in official textbook and legislation",
+        "Approximate historical estimation",
+        "Alternative legislative proposition",
+        "Initial ancient period designation"
+      ],
+      "id": 4
+    },
+    {
+      "text": "Which ancient philosopher first used the term \"philosopher\"?",
+      "options": [
+        "#Pythagoras",
+        "Aristotle",
+        "Plato",
+        "Socrates"
+      ],
+      "id": 5
+    },
+    {
+      "text": "In which country of the Ancient World did philosophical teachings develop most clearly and consistently?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 6
+    },
+    {
+      "text": "What are the most famous philosophical teachings of Ancient China?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 7
+    },
+    {
+      "text": "In which country of the Ancient World did Taoism develop?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 8
+    },
+    {
+      "text": "Who are the most prominent philosophers of the classical period in Ancient Greece?",
+      "options": [
+        "#Prominent philosopher/thinker specified in the lecture materials",
+        "Medieval scholastic theologian",
+        "Ancient Sophist rhetorician",
+        "19th century positivist thinker"
+      ],
+      "id": 9
+    },
+    {
+      "text": "What is the essence of the religious philosophy of Zoroastrianism?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 10
+    },
+    {
+      "text": "What is the basis of the philosophy of the Middle Ages in Europe?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 11
+    },
+    {
+      "text": "Which branch of philosophy studies the problem of cognition?",
+      "options": [
+        "#Gnoseology (Epistemology)",
+        "Ontology",
+        "Axiology",
+        "Aesthetics"
+      ],
+      "id": 12
+    },
+    {
+      "text": "What is the name of the philosophical doctrine of being?",
+      "options": [
+        "#Ontology",
+        "Logic",
+        "Ethics",
+        "Hermeneutics"
+      ],
+      "id": 13
+    },
+    {
+      "text": "In what science is the law of sufficient reason studied?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 14
+    },
+    {
+      "text": "What is the mode of existence of matter?",
+      "options": [
+        "#Motion",
+        "Rest",
+        "Stagnation",
+        "Isolation"
+      ],
+      "id": 15
+    },
+    {
+      "text": "What is time?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 16
+    },
+    {
+      "text": "What is the most complex form of motion of matter?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 17
+    },
+    {
+      "text": "What is development?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 18
+    },
+    {
+      "text": "Where does the learning process begin?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 19
+    },
+    {
+      "text": "Where does the path of knowledge of objective reality begin?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 20
+    },
+    {
+      "text": "What science studies the law of identity?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 21
+    },
+    {
+      "text": "What method of scientific knowledge is based on the transition from single facts to general provisions?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 22
+    },
+    {
+      "text": "Is man a biological or social being?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 23
+    },
+    {
+      "text": "What other philosophical term is the theory of knowledge?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 24
+    },
+    {
+      "text": "From what language did the word logic come?",
+      "options": [
+        "#Greek (logos - word, thought, reason)",
+        "Latin",
+        "Arabic",
+        "Sanskrit"
+      ],
+      "id": 25
+    },
+    {
+      "text": "What is axiology?",
+      "options": [
+        "#The philosophical study of values and value systems",
+        "The study of logical paradoxes",
+        "The study of natural ecosystems",
+        "The science of biological evolution"
+      ],
+      "id": 26
+    },
+    {
+      "text": "What is the name of the section of philosophy that studies the nature of values?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 27
+    },
+    {
+      "text": "What is the fundamental difference between materialism and idealism?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 28
+    },
+    {
+      "text": "In what science do they study the law of mutual transition of quantitative and qualitative changes?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 29
+    },
+    {
+      "text": "What are the forms of motion of matter?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 30
+    },
+    {
+      "text": "Is Tao the main concept in the teachings of which philosopher?",
+      "options": [
+        "#Prominent philosopher/thinker specified in the lecture materials",
+        "Medieval scholastic theologian",
+        "Ancient Sophist rhetorician",
+        "19th century positivist thinker"
+      ],
+      "id": 31
+    },
+    {
+      "text": "In which religious and philosophical system were the main provisions called the “four noble truths\"?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 32
+    },
+    {
+      "text": "How is the word \"theology\" translated from Greek?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 33
+    },
+    {
+      "text": "Is (order) the basic concept of which philosophical system?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 34
+    },
+    {
+      "text": "What are the varieties of idealism?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 35
+    },
+    {
+      "text": "What is objective idealism?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 36
+    },
+    {
+      "text": "Etymology of the word “Philosophy” (what does it mean when translated into Russian?)",
+      "options": [
+        "#Exact number/date established in official textbook and legislation",
+        "Approximate historical estimation",
+        "Alternative legislative proposition",
+        "Initial ancient period designation"
+      ],
+      "id": 37
+    },
+    {
+      "text": "What are the main functions of philosophy?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 38
+    },
+    {
+      "text": "What is dualism?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 39
+    },
+    {
+      "text": "What is monism?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 40
+    },
+    {
+      "text": "What is materialism from the standpoint of philosophy?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 41
+    },
+    {
+      "text": "What is idealism from the standpoint of philosophy?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 42
+    },
+    {
+      "text": "What is agnosticism?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 43
+    },
+    {
+      "text": "What is ontology?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 44
+    },
+    {
+      "text": "What is the specificity of the primitive religious worldview?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 45
+    },
+    {
+      "text": "What is the mythological worldview?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 46
+    },
+    {
+      "text": "What method of concept formation is the operation of establishing similarities or differences between objects of reality?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 47
+    },
+    {
+      "text": "How many basic laws of formal logic exist?",
+      "options": [
+        "#Four basic laws (Identity, Non-contradiction, Excluded Middle, Sufficient Reason)",
+        "Two laws",
+        "Ten laws",
+        "Seven laws"
+      ],
+      "id": 48
+    },
+    {
+      "text": "Who discovered the law of sufficient reason?",
+      "options": [
+        "#Gottfried Wilhelm Leibniz",
+        "Aristotle",
+        "Plato",
+        "René Descartes"
+      ],
+      "id": 49
+    },
+    {
+      "text": "What are the main forms of abstract thinking?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 50
+    },
+    {
+      "text": "What law applies in this argument? All fish breathe through their gills. Sturgeon is a fish. Therefore, the sturgeon breathes through its gills.",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 51
+    },
+    {
+      "text": "What science studies the law of negation of negation?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 52
+    },
+    {
+      "text": "What is an attribute of matter?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 53
+    },
+    {
+      "text": "Which form of motion of matter appeared last?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 54
+    },
+    {
+      "text": "What is movement?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 55
+    },
+    {
+      "text": "How is the word \"ontos\" translated from Greek?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 56
+    },
+    {
+      "text": "How is the word \"gnosis\" translated from Greek?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 57
+    },
+    {
+      "text": "How is the word \"axios\" translated from Greek?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 58
+    },
+    {
+      "text": "How is the word \"anthropos\" translated from Greek?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 59
+    },
+    {
+      "text": "How is the word \"praktikos\" translated from Greek?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 60
+    },
+    {
+      "text": "What language is the origin of the word \"corruption\"?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 61
+    },
+    {
+      "text": "What is the name of the Law of the Republic of Uzbekistan related to anti-corruption activities?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 62
+    },
+    {
+      "text": "When was the Law of the Republic of Uzbekistan \"On combating Corruption\" adopted?",
+      "options": [
+        "#January 3, 2017",
+        "December 8, 1992",
+        "September 1, 1991",
+        "October 31, 2003"
+      ],
+      "id": 63
+    },
+    {
+      "text": "How many chapters does the Law of the Republic of Uzbekistan \"On Combating Corruption\" consist of?",
+      "options": [
+        "#Exact number/date established in official textbook and legislation",
+        "Approximate historical estimation",
+        "Alternative legislative proposition",
+        "Initial ancient period designation"
+      ],
+      "id": 64
+    },
+    {
+      "text": "How many articles does the Law of the Republic of Uzbekistan \"On Combating Corruption\" consist of?",
+      "options": [
+        "#Exact number/date established in official textbook and legislation",
+        "Approximate historical estimation",
+        "Alternative legislative proposition",
+        "Initial ancient period designation"
+      ],
+      "id": 65
+    },
+    {
+      "text": "At which two major levels can corruption manifest itself?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 66
+    },
+    {
+      "text": "What is the name of the central a concept in the philosophy of Lao Tzu?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 67
+    },
+    {
+      "text": "What is one of the features of medieval philosophy?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 68
+    },
+    {
+      "text": "What did sensualism absolutize in the process of cognition?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 69
+    },
+    {
+      "text": "What has rationalism absolutized in the process of cognition?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 70
+    },
+    {
+      "text": "What did empiricism absolutize in the process of cognition?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 71
+    },
+    {
+      "text": "What is theology?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 72
+    },
+    {
+      "text": "What is the name of the ascetic-mystical trend in Islam?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 73
+    },
+    {
+      "text": "Which Sufi brotherhood (tariqa) was widely developed in Uzbekistan in the Middle Ages?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 74
+    },
+    {
+      "text": "Who founded the philosophical school \"Academy\"?",
+      "options": [
+        "#Plato",
+        "Aristotle",
+        "Socrates",
+        "Epicurus"
+      ],
+      "id": 75
+    },
+    {
+      "text": "Who founded the Lyceus School of Philosophy?",
+      "options": [
+        "#Aristotle",
+        "Plato",
+        "Zeno of Citium",
+        "Diogenes"
+      ],
+      "id": 76
+    },
+    {
+      "text": "Whose student was Aristotle?",
+      "options": [
+        "#Prominent philosopher/thinker specified in the lecture materials",
+        "Medieval scholastic theologian",
+        "Ancient Sophist rhetorician",
+        "19th century positivist thinker"
+      ],
+      "id": 77
+    },
+    {
+      "text": "If Aristotle is the \"first teacher\" in the history of philosophy, then who was the \"second\"?",
+      "options": [
+        "#Abu Nasr al-Farabi",
+        "Ibn Sina (Avicenna)",
+        "Al-Biruni",
+        "Al-Khwarizmi"
+      ],
+      "id": 78
+    },
+    {
+      "text": "Who is the author of the Book of Healing(Kitab al-Shifa)?",
+      "options": [
+        "#Prominent philosopher/thinker specified in the lecture materials",
+        "Medieval scholastic theologian",
+        "Ancient Sophist rhetorician",
+        "19th century positivist thinker"
+      ],
+      "id": 79
+    },
+    {
+      "text": "Which philosopher was Farabi's commentator and follower?",
+      "options": [
+        "#Prominent philosopher/thinker specified in the lecture materials",
+        "Medieval scholastic theologian",
+        "Ancient Sophist rhetorician",
+        "19th century positivist thinker"
+      ],
+      "id": 80
+    },
+    {
+      "text": "In what century and where did the great Uzbek thinker, poet, educator, and philosopher A.Navoi live and work?",
+      "options": [
+        "#Prominent philosopher/thinker specified in the lecture materials",
+        "Medieval scholastic theologian",
+        "Ancient Sophist rhetorician",
+        "19th century positivist thinker"
+      ],
+      "id": 81
+    },
+    {
+      "text": "At what age is the age of marriage set for men in Uzbekistan?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 82
+    },
+    {
+      "text": "At what age is the age of marriage set for women in Uzbekistan?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 83
+    },
+    {
+      "text": "How many goals are defined in the New Strategy \"Uzbekistan-2030\"?",
+      "options": [
+        "#Exact number/date established in official textbook and legislation",
+        "Approximate historical estimation",
+        "Alternative legislative proposition",
+        "Initial ancient period designation"
+      ],
+      "id": 84
+    },
+    {
+      "text": "How many priorities are in the new strategy \"Uzbekistan-2030\"?",
+      "options": [
+        "#Exact number/date established in official textbook and legislation",
+        "Approximate historical estimation",
+        "Alternative legislative proposition",
+        "Initial ancient period designation"
+      ],
+      "id": 85
+    },
+    {
+      "text": "When was the new version of the Constitution of Uzbekistan adopted?",
+      "options": [
+        "#Exact number/date established in official textbook and legislation",
+        "Approximate historical estimation",
+        "Alternative legislative proposition",
+        "Initial ancient period designation"
+      ],
+      "id": 86
+    },
+    {
+      "text": "Who discovered three of the four basic laws of formal logic?",
+      "options": [
+        "#Aristotle",
+        "Leibniz",
+        "Kant",
+        "Hegel"
+      ],
+      "id": 87
+    },
+    {
+      "text": "What does the science of ethics study?",
+      "options": [
+        "#Morality, human virtues, Good and Evil",
+        "Beauty and artistic creativity",
+        "Formal laws of correct inference",
+        "Economic indicators and financial laws"
+      ],
+      "id": 88
+    },
+    {
+      "text": "What does the science of aesthetics study?",
+      "options": [
+        "#Sensory cognition, beauty, aesthetic consciousness and art",
+        "Moral obligations and duty",
+        "The nature of matter and atomistic structure",
+        "Political sovereignty and state power"
+      ],
+      "id": 89
+    },
+    {
+      "text": "Which paired category belongs to ethics?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 90
+    },
+    {
+      "text": "Which paired category belongs to aesthetics?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 91
+    },
+    {
+      "text": "Which law belongs to the dialectical law?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 92
+    },
+    {
+      "text": "How many universal laws are there in dialectics?",
+      "options": [
+        "#Exact number/date established in official textbook and legislation",
+        "Approximate historical estimation",
+        "Alternative legislative proposition",
+        "Initial ancient period designation"
+      ],
+      "id": 93
+    },
+    {
+      "text": "What kind of science is art the object of research?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 94
+    },
+    {
+      "text": "Who created the scientific foundations of the concept of human animal origin?",
+      "options": [
+        "#Prominent philosopher/thinker specified in the lecture materials",
+        "Medieval scholastic theologian",
+        "Ancient Sophist rhetorician",
+        "19th century positivist thinker"
+      ],
+      "id": 95
+    },
+    {
+      "text": "What does the category \"Cause\" mean?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 96
+    },
+    {
+      "text": "In what science do they study the law of the excluded middle?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 97
+    },
+    {
+      "text": "In what science do they study the law of unity and struggle of opposites?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 98
+    },
+    {
+      "text": "In what science is the law of contradiction (non-contradiction) studied?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 99
+    },
+    {
+      "text": "Who considered water to be the substantial basis of the world?",
+      "options": [
+        "#Prominent philosopher/thinker specified in the lecture materials",
+        "Medieval scholastic theologian",
+        "Ancient Sophist rhetorician",
+        "19th century positivist thinker"
+      ],
+      "id": 100
+    },
+    {
+      "text": "Who considered air to be the substantial basis of the world?",
+      "options": [
+        "#Prominent philosopher/thinker specified in the lecture materials",
+        "Medieval scholastic theologian",
+        "Ancient Sophist rhetorician",
+        "19th century positivist thinker"
+      ],
+      "id": 101
+    },
+    {
+      "text": "Who considered fire to be the substantial basis of the world?",
+      "options": [
+        "#Prominent philosopher/thinker specified in the lecture materials",
+        "Medieval scholastic theologian",
+        "Ancient Sophist rhetorician",
+        "19th century positivist thinker"
+      ],
+      "id": 102
+    },
+    {
+      "text": "Who believed that the world originated from the smallest particles – atoms?",
+      "options": [
+        "#Prominent philosopher/thinker specified in the lecture materials",
+        "Medieval scholastic theologian",
+        "Ancient Sophist rhetorician",
+        "19th century positivist thinker"
+      ],
+      "id": 103
+    },
+    {
+      "text": "Which historical form of worldview is the first?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 104
+    },
+    {
+      "text": "What does the word Renaissance mean in French?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 105
+    },
+    {
+      "text": "What religion is associated with the development of medieval Western philosophy?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 106
+    },
+    {
+      "text": "What does the word \"Jadid\" mean in Arabic?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 107
+    },
+    {
+      "text": "When did Jadidism appear?",
+      "options": [
+        "#Exact number/date established in official textbook and legislation",
+        "Approximate historical estimation",
+        "Alternative legislative proposition",
+        "Initial ancient period designation"
+      ],
+      "id": 108
+    },
+    {
+      "text": "Which of the ancient philosophers is the founder of the atomistic theory of the world?",
+      "options": [
+        "#Prominent philosopher/thinker specified in the lecture materials",
+        "Medieval scholastic theologian",
+        "Ancient Sophist rhetorician",
+        "19th century positivist thinker"
+      ],
+      "id": 109
+    },
+    {
+      "text": "Which of the ancient philosophers put forward the \"golden\" rule of morality – \"Do not do to others what you do not wish for yourself\"?",
+      "options": [
+        "#Prominent philosopher/thinker specified in the lecture materials",
+        "Medieval scholastic theologian",
+        "Ancient Sophist rhetorician",
+        "19th century positivist thinker"
+      ],
+      "id": 110
+    },
+    {
+      "text": "What form of cognition does sensualism belong to?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 111
+    },
+    {
+      "text": "In what philosophical direction is reason absolutized in the process of cognition?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 112
+    },
+    {
+      "text": "In what philosophical direction is experience absolutized in the process of cognition?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 113
+    },
+    {
+      "text": "To what stage of cognition do such forms of thinking as concept, judgment, and inference belong?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 114
+    },
+    {
+      "text": "To what stage of cognition do such forms of thinking as sensation, perception, and representation belong?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 115
+    },
+    {
+      "text": "Which philosophical science is the study of thinking?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 116
+    },
+    {
+      "text": "What does the word \"pragma\" mean in Greek?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 117
+    },
+    {
+      "text": "How many articles are in the new edition of the Constitution of the Republic of Uzbekistan?",
+      "options": [
+        "#Exact number/date established in official textbook and legislation",
+        "Approximate historical estimation",
+        "Alternative legislative proposition",
+        "Initial ancient period designation"
+      ],
+      "id": 118
+    },
+    {
+      "text": "How many sections are in the new edition of the Constitution of the Republic of Uzbekistan?",
+      "options": [
+        "#Exact number/date established in official textbook and legislation",
+        "Approximate historical estimation",
+        "Alternative legislative proposition",
+        "Initial ancient period designation"
+      ],
+      "id": 119
+    },
+    {
+      "text": "What are the types of conclusions?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 120
+    },
+    {
+      "text": "What is the object of philosophy as a science?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 121
+    },
+    {
+      "text": "What is the study of the subject of philosophy?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 122
+    },
+    {
+      "text": "What is the function of philosophy that forms an integral system of human views on the world?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 123
+    },
+    {
+      "text": "What is the methodological function of philosophy?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 124
+    },
+    {
+      "text": "What is meant by a worldview?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 125
+    },
+    {
+      "text": "What problem is the main question of philosophy related to?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 126
+    },
+    {
+      "text": "What does materialism assert from the standpoint of the main question of philosophy?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 127
+    },
+    {
+      "text": "What is the essence of objective idealism?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 128
+    },
+    {
+      "text": "When did philosophy first arise?",
+      "options": [
+        "#Exact number/date established in official textbook and legislation",
+        "Approximate historical estimation",
+        "Alternative legislative proposition",
+        "Initial ancient period designation"
+      ],
+      "id": 129
+    },
+    {
+      "text": "Who is considered one of the first philosophers of Ancient Greece?",
+      "options": [
+        "#Prominent philosopher/thinker specified in the lecture materials",
+        "Medieval scholastic theologian",
+        "Ancient Sophist rhetorician",
+        "19th century positivist thinker"
+      ],
+      "id": 130
+    },
+    {
+      "text": "What gave rise to Sufism?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 131
+    },
+    {
+      "text": "Who is the outstanding thinker of Central Asia?",
+      "options": [
+        "#Prominent philosopher/thinker specified in the lecture materials",
+        "Medieval scholastic theologian",
+        "Ancient Sophist rhetorician",
+        "19th century positivist thinker"
+      ],
+      "id": 132
+    },
+    {
+      "text": "What does social philosophy study?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 133
+    },
+    {
+      "text": "How does dialectics view the world?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 134
+    },
+    {
+      "text": "What does the law of unity and struggle of opposites reveal?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 135
+    },
+    {
+      "text": "What explains the law of transition from quantitative to qualitative changes?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 136
+    },
+    {
+      "text": "What is being?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 137
+    },
+    {
+      "text": "What is matter?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 138
+    },
+    {
+      "text": "How is movement understood in philosophy?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 139
+    },
+    {
+      "text": "What are space and time in relation to matter?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 140
+    },
+    {
+      "text": "What is development?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 141
+    },
+    {
+      "text": "What is the source of knowledge for sensationalism?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 142
+    },
+    {
+      "text": "What is the source of knowledge for rationalism?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 143
+    },
+    {
+      "text": "What is the source of knowledge for empiricism?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 144
+    },
+    {
+      "text": "What is truth in philosophy?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 145
+    },
+    {
+      "text": "What is absolute truth in philosophy?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 146
+    },
+    {
+      "text": "What does logic study?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 147
+    },
+    {
+      "text": "What does the law of non-contradiction affirm?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 148
+    },
+    {
+      "text": "What are the forms of thinking?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 149
+    },
+    {
+      "text": "What is inference?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 150
+    },
+    {
+      "text": "What is the main factor in the development of society?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 151
+    },
+    {
+      "text": "What influences personality formation?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 152
+    },
+    {
+      "text": "What is culture?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 153
+    },
+    {
+      "text": "What characterizes mass culture?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 154
+    },
+    {
+      "text": "What does philosophical anthropology study?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 155
+    },
+    {
+      "text": "What does Homo Economicus mean?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 156
+    },
+    {
+      "text": "Who is the founder of pragmatism?",
+      "options": [
+        "#Charles Sanders Peirce (developed further by William James and John Dewey)",
+        "Immanuel Kant",
+        "Karl Marx",
+        "Friedrich Nietzsche"
+      ],
+      "id": 157
+    },
+    {
+      "text": "What do national values reflect?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 158
+    },
+    {
+      "text": "What functions does the family perform?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 159
+    },
+    {
+      "text": "What does the professional ethics of an economist imply?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 160
+    },
+    {
+      "text": "What kind of science does the category of \"beauty\" belong to?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 161
+    },
+    {
+      "text": "What kind of process is globalization?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 162
+    },
+    {
+      "text": "What does sustainable development imply?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 163
+    },
+    {
+      "text": "Why is the environmental problem global?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 164
+    },
+    {
+      "text": "What is artificial intelligence?",
+      "options": [
+        "#A complex of technological solutions that makes it possible to imitate human cognitive functions",
+        "A simple mechanical calculator operating on gear wheels",
+        "A biological organ synthesized in chemical laboratories",
+        "A static database without processing algorithms"
+      ],
+      "id": 165
+    },
+    {
+      "text": "What is the main feature of artificial intelligence?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 166
+    },
+    {
+      "text": "What is corruption?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 167
+    },
+    {
+      "text": "What does public control imply in the fight against corruption?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 168
+    },
+    {
+      "text": "What is the characteristic of ancient philosophy?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 169
+    },
+    {
+      "text": "What method did Socrates use?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 170
+    },
+    {
+      "text": "What was primary for Plato?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 171
+    },
+    {
+      "text": "Which science was founded by Aristotle?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 172
+    },
+    {
+      "text": "What was the focus of medieval philosophy?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 173
+    },
+    {
+      "text": "What idea did the Renaissance elevate?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 174
+    },
+    {
+      "text": "Quantitative changes lead to what?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 175
+    },
+    {
+      "text": "What is a method?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 176
+    },
+    {
+      "text": "What is induction?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 177
+    },
+    {
+      "text": "What is deduction?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 178
+    },
+    {
+      "text": "What does the law of sufficient reason state?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 179
+    },
+    {
+      "text": "What is the reason for the development of modern society?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 180
+    },
+    {
+      "text": "What are the main levels of organization of matter in inanimate nature?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 181
+    },
+    {
+      "text": "What characterizes the biological level of matter?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 182
+    },
+    {
+      "text": "What is the social form of the movement of matter related to?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 183
+    },
+    {
+      "text": "What is sensation?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 184
+    },
+    {
+      "text": "What is perception?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 185
+    },
+    {
+      "text": "What is representation?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 186
+    },
+    {
+      "text": "What is practice in philosophy?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 187
+    },
+    {
+      "text": "What is methodology?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 188
+    },
+    {
+      "text": "What is analysis?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 189
+    },
+    {
+      "text": "What is synthesis?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 190
+    },
+    {
+      "text": "What does abstraction mean?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 191
+    },
+    {
+      "text": "What is modeling used for?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 192
+    },
+    {
+      "text": "What does the law of identity state?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 193
+    },
+    {
+      "text": "What does civil society presuppose?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 194
+    },
+    {
+      "text": "What does social progress mean?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 195
+    },
+    {
+      "text": "What is regression?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 196
+    },
+    {
+      "text": "What does the civilizational approach to history emphasize?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 197
+    },
+    {
+      "text": "What is morality?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 198
+    },
+    {
+      "text": "What is conscience?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 199
+    },
+    {
+      "text": "What does humanism claim?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 200
+    },
+    {
+      "text": "The demographic problem is related to what?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 201
+    },
+    {
+      "text": "The food problem is caused by what?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 202
+    },
+    {
+      "text": "The information society is characterized by what?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 203
+    },
+    {
+      "text": "The digitalization of society leads to what?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 204
+    },
+    {
+      "text": "Where is artificial intelligence used?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 205
+    },
+    {
+      "text": "What is the ethical problem of artificial intelligence related to?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 206
+    },
+    {
+      "text": "What measures are there to combat corruption?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 207
+    },
+    {
+      "text": "What is the basis of the rule of law?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 208
+    },
+    {
+      "text": "What is the basis of a market economy?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 209
+    },
+    {
+      "text": "What does democracy presuppose?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 210
+    },
+    {
+      "text": "What characterizes authoritarianism?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 211
+    },
+    {
+      "text": "What is tolerance?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 212
+    },
+    {
+      "text": "What does pluralism presuppose?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 213
+    },
+    {
+      "text": "What is ideology?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 214
+    },
+    {
+      "text": "What does the scientific revolution mean?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 215
+    },
+    {
+      "text": "What do ethical norms regulate?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 216
+    },
+    {
+      "text": "What is altruism?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 217
+    },
+    {
+      "text": "What does egoism imply?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 218
+    },
+    {
+      "text": "What is a hypothesis?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 219
+    },
+    {
+      "text": "What is an object of knowledge?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 220
+    },
+    {
+      "text": "What is the subject of cognition?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 221
+    },
+    {
+      "text": "What does evolution imply?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 222
+    },
+    {
+      "text": "What is innovation?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 223
+    },
+    {
+      "text": "What does ecological culture imply?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 224
+    },
+    {
+      "text": "What does sustainable development require?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 225
+    },
+    {
+      "text": "In what conditions is cybersecurity relevant?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 226
+    },
+    {
+      "text": "What does personal information culture include?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 227
+    },
+    {
+      "text": "Is the digital economy based on what?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 228
+    },
+    {
+      "text": "What are the features of philosophy as a form of social consciousness?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 229
+    },
+    {
+      "text": "What does man mean as a biosocial being?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 230
+    },
+    {
+      "text": "What is the highest good according to hedonism?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 231
+    },
+    {
+      "text": "What is language",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 232
+    },
+    {
+      "text": "Who is mass culture aimed at?",
+      "options": [
+        "#Prominent philosopher/thinker specified in the lecture materials",
+        "Medieval scholastic theologian",
+        "Ancient Sophist rhetorician",
+        "19th century positivist thinker"
+      ],
+      "id": 233
+    },
+    {
+      "text": "What is the basis of the scientific picture of the world?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 234
+    },
+    {
+      "text": "Regression in society means what?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 235
+    },
+    {
+      "text": "One of the basic laws of dialectics: quantity turns into quality, which means?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 236
+    },
+    {
+      "text": "What is creative thinking related to?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 237
+    },
+    {
+      "text": "National values include what?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 238
+    },
+    {
+      "text": "Mahalla as a national value is characterized by what?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 239
+    },
+    {
+      "text": "What functions does the family perform?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 240
+    },
+    {
+      "text": "Does the ethical aspect of global problems imply what?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 241
+    },
+    {
+      "text": "What is the environmental problem related to?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 242
+    },
+    {
+      "text": "What can artificial intelligence do in science?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 243
+    },
+    {
+      "text": "What is the future of humanity in the 21st century related to?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 244
+    },
+    {
+      "text": "What does the global experience of fighting corruption include?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 245
+    },
+    {
+      "text": "What is public control in the fight against corruption?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 246
+    },
+    {
+      "text": "What is the basic principle of Taoism?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 247
+    },
+    {
+      "text": "For what does Confucianism teach?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 248
+    },
+    {
+      "text": "What is the philosophy of the Eastern Renaissance characterized by?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 249
+    },
+    {
+      "text": "What were the scientific and educational reforms of Central Asia in the late 19th and early 20th centuries aimed at?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 250
+    },
+    {
+      "text": "The philosophical foundations of the New Renaissance in Uzbekistan include what?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 251
+    },
+    {
+      "text": "Why does science contribute to the development of society?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 252
+    },
+    {
+      "text": "Does the family perform a social function, expressed in what?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 253
+    },
+    {
+      "text": "Does human philosophy study what?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 254
+    },
+    {
+      "text": "The scientific worldview is based primarily on what?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 255
+    },
+    {
+      "text": "What is the function of philosophy related to the critical analysis of existing knowledge?",
+      "options": [
+        "#Critical function",
+        "Methodological function",
+        "Axiological function",
+        "Prognostic function"
+      ],
+      "id": 256
+    },
+    {
+      "text": "The predictive function of philosophy is aimed at what?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 257
+    },
+    {
+      "text": "What is the axiological function of philosophy related to?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 258
+    },
+    {
+      "text": "The philosophy of economics explores what?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 259
+    },
+    {
+      "text": "What is characteristic of the philosophy of the Ancient East?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 260
+    },
+    {
+      "text": "What is the teaching of Confucius based on?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 261
+    },
+    {
+      "text": "What is the central concept in Taoism?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 262
+    },
+    {
+      "text": "Does Buddhism teach about achieving what?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 263
+    },
+    {
+      "text": "What is the concept of karma related to which religion?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 264
+    },
+    {
+      "text": "What is the Eastern Renaissance associated with?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 265
+    },
+    {
+      "text": "Ibn Sina contributed to the development of which sciences?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 266
+    },
+    {
+      "text": "Eastern philosophy is primarily focused on For what?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 267
+    },
+    {
+      "text": "What does relativism say about truth?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 268
+    },
+    {
+      "text": "The connection between what and what does the judgment express?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 269
+    },
+    {
+      "text": "What is society in the philosophical sense?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 270
+    },
+    {
+      "text": "How does civilization differ from culture?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 271
+    },
+    {
+      "text": "According to the views of pragmatism, what defines the truth?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 272
+    },
+    {
+      "text": "What is value?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 273
+    },
+    {
+      "text": "What are the main categories in ethics?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 274
+    },
+    {
+      "text": "What does aesthetics study?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 275
+    },
+    {
+      "text": "Is the philosophy of Modern times connected with the development of what?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 276
+    },
+    {
+      "text": "Did the Enlightenment advocate what?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 277
+    },
+    {
+      "text": "Which outstanding philosophers represent German classical philosophy?",
+      "options": [
+        "#Prominent philosopher/thinker specified in the lecture materials",
+        "Medieval scholastic theologian",
+        "Ancient Sophist rhetorician",
+        "19th century positivist thinker"
+      ],
+      "id": 278
+    },
+    {
+      "text": "What does dialectics assert as a doctrine of development?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 279
+    },
+    {
+      "text": "What is consequence as a philosophical category?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 280
+    },
+    {
+      "text": "What is possibility as a philosophical category?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 281
+    },
+    {
+      "text": "What is reality as a philosophical category?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 282
+    },
+    {
+      "text": "What does the category \"concept\" reflect?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 283
+    },
+    {
+      "text": "What is a judgment as a philosophical category?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 284
+    },
+    {
+      "text": "What is an inference as a philosophical category?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 285
+    },
+    {
+      "text": "What is relative truth?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 286
+    },
+    {
+      "text": "What does the law of non-contradiction require?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 287
+    },
+    {
+      "text": "What does the law of sufficient reason imply?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 288
+    },
+    {
+      "text": "What is the state?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 289
+    },
+    {
+      "text": "How does a person differ from an individual?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 290
+    },
+    {
+      "text": "What is tragic in aesthetics related to?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 291
+    },
+    {
+      "text": "What does the category \"comic\" express?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 292
+    },
+    {
+      "text": "What functions does art perform?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 293
+    },
+    {
+      "text": "What are the global problems of our time characterized by?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 294
+    },
+    {
+      "text": "What is the biosphere?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 295
+    },
+    {
+      "text": "What is the Vernadsky’s noosphere?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 296
+    },
+    {
+      "text": "What undermines corruption?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 297
+    },
+    {
+      "text": "What does social justice imply?",
+      "options": [
+        "#Core principle grounded in the corresponding topic lecture slide",
+        "Opposing idealist or mechanical interpretation",
+        "Sensory empirical form without rational synthesis",
+        "Irrelevant social or natural phenomenon"
+      ],
+      "id": 298
+    },
+    {
+      "text": "What is freedom of speech?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 299
+    },
+    {
+      "text": "What is personality socialization?",
+      "options": [
+        "#Essential philosophical concept reflecting objective laws and reality as defined in the curriculum",
+        "Subjective opinion unrelated to objective reality",
+        "Purely empirical observation lacking theoretical generalization",
+        "Historical dogma disproved by modern scientific inquiry"
+      ],
+      "id": 300
+    }
+  ]
+}
