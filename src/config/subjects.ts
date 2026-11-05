@@ -37,6 +37,15 @@ export const SUBJECTS: SubjectConfig[] = [
     questionsCount: 301,
     groupsCount: 13,
   },
+  {
+    id: 'philosophy',
+    name: 'Boring but fun',
+    description: "Why do I exist?",
+    icon: 'target',
+    color: 'from-green-500 to-emerald-500',
+    questionsCount: 300,
+    groupsCount: 13,
+  },
 ]
 
 /**

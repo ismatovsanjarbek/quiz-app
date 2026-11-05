@@ -1,0 +1,3004 @@
+{
+  "questions": [
+    {
+      "text": "What is philosophy?",
+      "options": [
+        "The art of governing a state",
+        "The study of the origin and development of religious beliefs",
+        "The science of the structure and functions of living organisms",
+        "#A science of the most general laws of the development of nature, society and thinking"
+      ],
+      "id": 1
+    },
+    {
+      "text": "What are the main functions of philosophy?",
+      "options": [
+        "Military, fiscal, administrative and judicial functions",
+        "#Worldview, methodological, epistemological and axiological functions",
+        "Medical, diagnostic, surgical and pharmaceutical functions",
+        "Commercial, industrial, agricultural and technical functions"
+      ],
+      "id": 2
+    },
+    {
+      "text": "What are the only historical types of worldview?",
+      "options": [
+        "Economic, legal and technical",
+        "Scientific, artistic and political",
+        "#Mythological, religious and philosophical",
+        "Empirical, theoretical and practical"
+      ],
+      "id": 3
+    },
+    {
+      "text": "When does philosophy arise (in which formation)?",
+      "options": [
+        "In the primitive communal formation",
+        "In the capitalist formation",
+        "In the feudal formation",
+        "#In the slave-owning formation"
+      ],
+      "id": 4
+    },
+    {
+      "text": "Which ancient philosopher first used the term \"philosopher\"?",
+      "options": [
+        "Socrates",
+        "Aristotle",
+        "#Pythagoras",
+        "Plato"
+      ],
+      "id": 5
+    },
+    {
+      "text": "In which country of the Ancient World did philosophical teachings develop most clearly and consistently?",
+      "options": [
+        "Mesopotamia",
+        "#India",
+        "Phoenicia",
+        "Egypt"
+      ],
+      "id": 6
+    },
+    {
+      "text": "What are the most famous philosophical teachings of Ancient China?",
+      "options": [
+        "Sufism and Buddhism",
+        "Zoroastrianism and Jainism",
+        "Stoicism and Epicureanism",
+        "#Confucianism and Taoism"
+      ],
+      "id": 7
+    },
+    {
+      "text": "In which country of the Ancient World did Taoism develop?",
+      "options": [
+        "Egypt",
+        "India",
+        "#China",
+        "Greece"
+      ],
+      "id": 8
+    },
+    {
+      "text": "Who are the most prominent philosophers of the classical period in Ancient Greece?",
+      "options": [
+        "Thales, Anaximenes, Heraclitus",
+        "Descartes, Spinoza, Leibniz",
+        "#Socrates, Plato, Aristotle",
+        "Kant, Hegel, Feuerbach"
+      ],
+      "id": 9
+    },
+    {
+      "text": "What is the essence of the religious philosophy of Zoroastrianism?",
+      "options": [
+        "The cycle of rebirth and liberation from suffering",
+        "The harmony of man with the natural way (Tao)",
+        "Worship of ancestors and the cult of the emperor",
+        "#The struggle between good and light and evil and darkness"
+      ],
+      "id": 10
+    },
+    {
+      "text": "What is the basis of the philosophy of the Middle Ages in Europe?",
+      "options": [
+        "Natural science",
+        "#Religion (Christian doctrine)",
+        "Atomistic materialism",
+        "Mythology"
+      ],
+      "id": 11
+    },
+    {
+      "text": "Which branch of philosophy studies the problem of cognition?",
+      "options": [
+        "#Epistemology",
+        "Axiology",
+        "Ontology",
+        "Ethics"
+      ],
+      "id": 12
+    },
+    {
+      "text": "What is the name of the philosophical doctrine of being?",
+      "options": [
+        "Epistemology",
+        "Aesthetics",
+        "Logic",
+        "#Ontology"
+      ],
+      "id": 13
+    },
+    {
+      "text": "In what science is the law of sufficient reason studied?",
+      "options": [
+        "Sociology",
+        "Ethics",
+        "#Logic",
+        "Aesthetics"
+      ],
+      "id": 14
+    },
+    {
+      "text": "What is the mode of existence of matter?",
+      "options": [
+        "#Motion",
+        "Intuition",
+        "Consciousness",
+        "Faith"
+      ],
+      "id": 15
+    },
+    {
+      "text": "What is time?",
+      "options": [
+        "#A form of existence of matter expressing the duration and sequence of events",
+        "A product of pure thought only",
+        "A subjective feeling that does not depend on matter",
+        "A form of existence of matter expressing the extension of objects"
+      ],
+      "id": 16
+    },
+    {
+      "text": "What is the most complex form of motion of matter?",
+      "options": [
+        "Chemical",
+        "Mechanical",
+        "Biological",
+        "#Social"
+      ],
+      "id": 17
+    },
+    {
+      "text": "What is development?",
+      "options": [
+        "Only quantitative increase of objects",
+        "Simple repetition of the same processes",
+        "#Irreversible, directed and regular change of material and ideal objects",
+        "Random change without any direction"
+      ],
+      "id": 18
+    },
+    {
+      "text": "Where does the learning process begin?",
+      "options": [
+        "With abstract thinking",
+        "With logical inference",
+        "#With sensory cognition (living contemplation)",
+        "With the formation of theories"
+      ],
+      "id": 19
+    },
+    {
+      "text": "Where does the path of knowledge of objective reality begin?",
+      "options": [
+        "With mathematical proof",
+        "#With sensory cognition (sensation, perception, representation)",
+        "With judgment and inference",
+        "With the construction of hypotheses"
+      ],
+      "id": 20
+    },
+    {
+      "text": "What science studies the law of identity?",
+      "options": [
+        "Aesthetics",
+        "Ethics",
+        "Ontology",
+        "#Logic"
+      ],
+      "id": 21
+    },
+    {
+      "text": "What method of scientific knowledge is based on the transition from single facts to general provisions?",
+      "options": [
+        "Deduction",
+        "#Induction",
+        "Analogy",
+        "Modeling"
+      ],
+      "id": 22
+    },
+    {
+      "text": "Is man a biological or social being?",
+      "options": [
+        "Only a biological being",
+        "Only a social being",
+        "#A biosocial being (both biological and social)",
+        "Only a spiritual being"
+      ],
+      "id": 23
+    },
+    {
+      "text": "What other philosophical term is the theory of knowledge?",
+      "options": [
+        "#Epistemology (gnoseology)",
+        "Ontology",
+        "Deontology",
+        "Axiology"
+      ],
+      "id": 24
+    },
+    {
+      "text": "From what language did the word logic come?",
+      "options": [
+        "Arabic",
+        "#Greek",
+        "Latin",
+        "Persian"
+      ],
+      "id": 25
+    },
+    {
+      "text": "What is axiology?",
+      "options": [
+        "The doctrine of knowledge",
+        "The doctrine of morality",
+        "#The doctrine of values",
+        "The doctrine of being"
+      ],
+      "id": 26
+    },
+    {
+      "text": "What is the name of the section of philosophy that studies the nature of values?",
+      "options": [
+        "Logic",
+        "Ontology",
+        "#Axiology",
+        "Epistemology"
+      ],
+      "id": 27
+    },
+    {
+      "text": "What is the fundamental difference between materialism and idealism?",
+      "options": [
+        "The attitude to the use of formal logic",
+        "#The answer to the question of what is primary: matter or consciousness",
+        "The number of the principles of the world",
+        "The attitude to experiments in science"
+      ],
+      "id": 28
+    },
+    {
+      "text": "In what science do they study the law of mutual transition of quantitative and qualitative changes?",
+      "options": [
+        "Aesthetics",
+        "Formal logic",
+        "#Dialectics",
+        "Ethics"
+      ],
+      "id": 29
+    },
+    {
+      "text": "What are the forms of motion of matter?",
+      "options": [
+        "Mythological, religious, philosophical and scientific",
+        "Sensory, rational, empirical and intuitive",
+        "Atomic, molecular, cellular and organic only",
+        "#Mechanical, physical, chemical, biological and social"
+      ],
+      "id": 30
+    },
+    {
+      "text": "Is Tao the main concept in the teachings of which philosopher?",
+      "options": [
+        "Confucius",
+        "Buddha",
+        "Zoroaster",
+        "#Lao Tzu"
+      ],
+      "id": 31
+    },
+    {
+      "text": "In which religious and philosophical system were the main provisions called the “four noble truths\"?",
+      "options": [
+        "Confucianism",
+        "Zoroastrianism",
+        "Taoism",
+        "#Buddhism"
+      ],
+      "id": 32
+    },
+    {
+      "text": "How is the word \"theology\" translated from Greek?",
+      "options": [
+        "The doctrine of being",
+        "#The doctrine of God",
+        "The doctrine of the soul",
+        "The doctrine of knowledge"
+      ],
+      "id": 33
+    },
+    {
+      "text": "Cosmos (order) is the basic concept of which philosophical system?",
+      "options": [
+        "Medieval scholasticism (theocentrism)",
+        "#Ancient Greek philosophy (cosmocentrism)",
+        "Philosophy of the Enlightenment",
+        "Renaissance humanism (anthropocentrism)"
+      ],
+      "id": 34
+    },
+    {
+      "text": "What are the varieties of idealism?",
+      "options": [
+        "Metaphysics and dialectics",
+        "#Objective and subjective idealism",
+        "Empiricism and rationalism",
+        "Vulgar and dialectical materialism"
+      ],
+      "id": 35
+    },
+    {
+      "text": "What is objective idealism?",
+      "options": [
+        "Recognition of two equal independent principles",
+        "Recognition of matter as the only primary principle",
+        "#Recognition of a spiritual principle (idea, world spirit) existing independently of human consciousness",
+        "Recognition of the world as only a set of human sensations"
+      ],
+      "id": 36
+    },
+    {
+      "text": "Etymology of the word “Philosophy” (what does it mean when translated into Russian?)",
+      "options": [
+        "Love of nature",
+        "Love of power",
+        "#Love of wisdom",
+        "Science of life"
+      ],
+      "id": 37
+    },
+    {
+      "text": "What are the main functions of philosophy?",
+      "options": [
+        "#Worldview, methodological, epistemological, axiological and critical functions",
+        "Industrial, agricultural and commercial functions",
+        "Medical, surgical and diagnostic functions",
+        "Military, fiscal and judicial functions"
+      ],
+      "id": 38
+    },
+    {
+      "text": "What is dualism?",
+      "options": [
+        "Recognition of spirit as the only principle of the world",
+        "Denial of the knowability of the world",
+        "#Recognition of two independent principles of the world: matter and spirit",
+        "Recognition of matter as the only principle of the world"
+      ],
+      "id": 39
+    },
+    {
+      "text": "What is monism?",
+      "options": [
+        "Denial of any principle of the world",
+        "#Recognition of a single principle (basis) of the world",
+        "Recognition of the world as unknowable",
+        "Recognition of two equal principles of the world"
+      ],
+      "id": 40
+    },
+    {
+      "text": "What is materialism from the standpoint of philosophy?",
+      "options": [
+        "#A direction that recognizes matter as primary and consciousness as secondary",
+        "A direction that recognizes spirit as primary and matter as secondary",
+        "A direction that recognizes two equal principles",
+        "A direction that denies the knowability of the world"
+      ],
+      "id": 41
+    },
+    {
+      "text": "What is idealism from the standpoint of philosophy?",
+      "options": [
+        "A direction that studies only the laws of thinking",
+        "#A direction that recognizes spirit (idea, consciousness) as primary and matter as secondary",
+        "A direction that recognizes matter as primary and consciousness as secondary",
+        "A direction that denies the existence of the spiritual"
+      ],
+      "id": 42
+    },
+    {
+      "text": "What is agnosticism?",
+      "options": [
+        "#A doctrine that denies the possibility of knowing the world (or its essence)",
+        "A doctrine that recognizes God as the only reality",
+        "A doctrine that recognizes the complete knowability of the world",
+        "A doctrine that recognizes matter as the only reality"
+      ],
+      "id": 43
+    },
+    {
+      "text": "What is ontology?",
+      "options": [
+        "#The philosophical doctrine of being",
+        "The philosophical doctrine of knowledge",
+        "The philosophical doctrine of beauty",
+        "The philosophical doctrine of values"
+      ],
+      "id": 44
+    },
+    {
+      "text": "What is the specificity of the primitive religious worldview?",
+      "options": [
+        "A rational system of abstract concepts",
+        "#Belief in spirits and supernatural forces (animism, totemism, fetishism)",
+        "A skeptical attitude to all beliefs",
+        "A scientific explanation of natural phenomena"
+      ],
+      "id": 45
+    },
+    {
+      "text": "What is the mythological worldview?",
+      "options": [
+        "Explaining the world by strict scientific proof",
+        "#Explaining the world through myths and legends in which the real and the fantastic are merged",
+        "Explaining the world by experiments",
+        "Explaining the world only by logical laws"
+      ],
+      "id": 46
+    },
+    {
+      "text": "What method of concept formation is the operation of establishing similarities or differences between objects of reality?",
+      "options": [
+        "Analysis",
+        "Abstraction",
+        "#Comparison",
+        "Generalization"
+      ],
+      "id": 47
+    },
+    {
+      "text": "How many basic laws of formal logic exist?",
+      "options": [
+        "Three",
+        "Five",
+        "#Four",
+        "Two"
+      ],
+      "id": 48
+    },
+    {
+      "text": "Who discovered the law of sufficient reason?",
+      "options": [
+        "Kant",
+        "#Leibniz",
+        "Descartes",
+        "Aristotle"
+      ],
+      "id": 49
+    },
+    {
+      "text": "What are the main forms of abstract thinking?",
+      "options": [
+        "#Concept, judgment, inference",
+        "Sensation, perception, representation",
+        "Analysis, synthesis, abstraction",
+        "Hypothesis, theory, law"
+      ],
+      "id": 50
+    },
+    {
+      "text": "What law applies in this argument? All fish breathe through their gills. Sturgeon is a fish. Therefore, the sturgeon breathes through its gills.",
+      "options": [
+        "The law of the excluded middle",
+        "The law of non-contradiction",
+        "The law of identity",
+        "#The law of sufficient reason"
+      ],
+      "id": 51
+    },
+    {
+      "text": "What science studies the law of negation of negation?",
+      "options": [
+        "Formal logic",
+        "#Dialectics",
+        "Ethics",
+        "Aesthetics"
+      ],
+      "id": 52
+    },
+    {
+      "text": "What is an attribute of matter?",
+      "options": [
+        "Idea",
+        "Soul",
+        "Will",
+        "#Motion"
+      ],
+      "id": 53
+    },
+    {
+      "text": "Which form of motion of matter appeared last?",
+      "options": [
+        "Mechanical",
+        "Chemical",
+        "Biological",
+        "#Social"
+      ],
+      "id": 54
+    },
+    {
+      "text": "What is movement?",
+      "options": [
+        "Only the growth of living organisms",
+        "Only the displacement of bodies in space",
+        "Only the activity of human consciousness",
+        "#Any change in general; a mode of existence of matter"
+      ],
+      "id": 55
+    },
+    {
+      "text": "How is the word \"ontos\" translated from Greek?",
+      "options": [
+        "Man",
+        "#Being (existing)",
+        "Knowledge",
+        "Value"
+      ],
+      "id": 56
+    },
+    {
+      "text": "How is the word \"gnosis\" translated from Greek?",
+      "options": [
+        "Value",
+        "Action",
+        "Being",
+        "#Knowledge"
+      ],
+      "id": 57
+    },
+    {
+      "text": "How is the word \"axios\" translated from Greek?",
+      "options": [
+        "#Value (worthy)",
+        "Being",
+        "Knowledge",
+        "Man"
+      ],
+      "id": 58
+    },
+    {
+      "text": "How is the word \"anthropos\" translated from Greek?",
+      "options": [
+        "Nature",
+        "#Man",
+        "God",
+        "Society"
+      ],
+      "id": 59
+    },
+    {
+      "text": "How is the word \"praktikos\" translated from Greek?",
+      "options": [
+        "Theoretical",
+        "#Practical (active)",
+        "Beautiful",
+        "Moral"
+      ],
+      "id": 60
+    },
+    {
+      "text": "What language is the origin of the word \"corruption\"?",
+      "options": [
+        "French",
+        "Arabic",
+        "#Latin",
+        "Greek"
+      ],
+      "id": 61
+    },
+    {
+      "text": "What is the name of the Law of the Republic of Uzbekistan related to anti-corruption activities?",
+      "options": [
+        "\"On the Prosecutor's Office\"",
+        "\"On Civil Service\"",
+        "\"On Public Control\"",
+        "#\"On Combating Corruption\""
+      ],
+      "id": 62
+    },
+    {
+      "text": "When was the Law of the Republic of Uzbekistan \"On combating Corruption\" adopted?",
+      "options": [
+        "December 8, 1992",
+        "January 3, 2015",
+        "September 1, 2017",
+        "#January 3, 2017"
+      ],
+      "id": 63
+    },
+    {
+      "text": "How many chapters does the Law of the Republic of Uzbekistan \"On Combating Corruption\" consist of?",
+      "options": [
+        "4",
+        "5",
+        "#6",
+        "8"
+      ],
+      "id": 64
+    },
+    {
+      "text": "How many articles does the Law of the Republic of Uzbekistan \"On Combating Corruption\" consist of?",
+      "options": [
+        "#34",
+        "40",
+        "25",
+        "50"
+      ],
+      "id": 65
+    },
+    {
+      "text": "At which two major levels can corruption manifest itself?",
+      "options": [
+        "Legal and illegal corruption",
+        "Local and ideological corruption",
+        "Domestic and military corruption",
+        "#Household (grassroots) and top-level (political) corruption"
+      ],
+      "id": 66
+    },
+    {
+      "text": "What is the name of the central a concept in the philosophy of Lao Tzu?",
+      "options": [
+        "Nirvana",
+        "#Tao",
+        "Li",
+        "Ren"
+      ],
+      "id": 67
+    },
+    {
+      "text": "What is one of the features of medieval philosophy?",
+      "options": [
+        "Anthropocentrism",
+        "#Theocentrism",
+        "Cosmocentrism",
+        "Atheism"
+      ],
+      "id": 68
+    },
+    {
+      "text": "What did sensualism absolutize in the process of cognition?",
+      "options": [
+        "Reason",
+        "Faith",
+        "#Sensory experience (sensations)",
+        "Intuition"
+      ],
+      "id": 69
+    },
+    {
+      "text": "What has rationalism absolutized in the process of cognition?",
+      "options": [
+        "Sensations",
+        "Faith",
+        "Experience",
+        "#Reason (the rational element)"
+      ],
+      "id": 70
+    },
+    {
+      "text": "What did empiricism absolutize in the process of cognition?",
+      "options": [
+        "#Experience",
+        "Revelation",
+        "Reason",
+        "Innate ideas"
+      ],
+      "id": 71
+    },
+    {
+      "text": "What is theology?",
+      "options": [
+        "#The doctrine of God; a system of religious teachings",
+        "The doctrine of society",
+        "The doctrine of the laws of thinking",
+        "The doctrine of nature"
+      ],
+      "id": 72
+    },
+    {
+      "text": "What is the name of the ascetic-mystical trend in Islam?",
+      "options": [
+        "#Sufism",
+        "Wahhabism",
+        "Murjiism",
+        "Kalam"
+      ],
+      "id": 73
+    },
+    {
+      "text": "Which Sufi brotherhood (tariqa) was widely developed in Uzbekistan in the Middle Ages?",
+      "options": [
+        "#Naqshbandiya",
+        "Bektashi",
+        "Shadhili",
+        "Mevlevi"
+      ],
+      "id": 74
+    },
+    {
+      "text": "Who founded the philosophical school \"Academy\"?",
+      "options": [
+        "Epicurus",
+        "#Plato",
+        "Socrates",
+        "Aristotle"
+      ],
+      "id": 75
+    },
+    {
+      "text": "Who founded the Lyceus School of Philosophy?",
+      "options": [
+        "Zeno",
+        "#Aristotle",
+        "Democritus",
+        "Plato"
+      ],
+      "id": 76
+    },
+    {
+      "text": "Whose student was Aristotle?",
+      "options": [
+        "#Plato",
+        "Socrates",
+        "Democritus",
+        "Pythagoras"
+      ],
+      "id": 77
+    },
+    {
+      "text": "If Aristotle is the \"first teacher\" in the history of philosophy, then who was the \"second\"?",
+      "options": [
+        "Al-Khwarizmi",
+        "Al-Biruni",
+        "Ibn Sina",
+        "#Al-Farabi"
+      ],
+      "id": 78
+    },
+    {
+      "text": "Who is the author of the Book of Healing(Kitab al-Shifa)?",
+      "options": [
+        "Al-Biruni",
+        "Al-Farabi",
+        "Ibn Rushd",
+        "#Ibn Sina (Avicenna)"
+      ],
+      "id": 79
+    },
+    {
+      "text": "Which philosopher was Farabi's commentator and follower?",
+      "options": [
+        "#Ibn Sina",
+        "Epicurus",
+        "Aristotle",
+        "Plato"
+      ],
+      "id": 80
+    },
+    {
+      "text": "In what century and where did the great Uzbek thinker, poet, educator, and philosopher A.Navoi live and work?",
+      "options": [
+        "In the 14th century, in Bukhara",
+        "In the 15th century, in Cairo",
+        "#In the 15th century, in Herat",
+        "In the 16th century, in Khiva"
+      ],
+      "id": 81
+    },
+    {
+      "text": "At what age is the age of marriage set for men in Uzbekistan?",
+      "options": [
+        "17",
+        "16",
+        "21",
+        "#18"
+      ],
+      "id": 82
+    },
+    {
+      "text": "At what age is the age of marriage set for women in Uzbekistan?",
+      "options": [
+        "16",
+        "#18",
+        "20",
+        "17"
+      ],
+      "id": 83
+    },
+    {
+      "text": "How many goals are defined in the New Strategy \"Uzbekistan-2030\"?",
+      "options": [
+        "77",
+        "50",
+        "#100",
+        "120"
+      ],
+      "id": 84
+    },
+    {
+      "text": "How many priorities are in the new strategy \"Uzbekistan-2030\"?",
+      "options": [
+        "4",
+        "3",
+        "7",
+        "#5"
+      ],
+      "id": 85
+    },
+    {
+      "text": "When was the new version of the Constitution of Uzbekistan adopted?",
+      "options": [
+        "December 8, 1992",
+        "January 1, 2024",
+        "September 1, 2021",
+        "#April 30, 2023 (by referendum)"
+      ],
+      "id": 86
+    },
+    {
+      "text": "Who discovered three of the four basic laws of formal logic?",
+      "options": [
+        "Descartes",
+        "Leibniz",
+        "#Aristotle",
+        "Kant"
+      ],
+      "id": 87
+    },
+    {
+      "text": "What does the science of ethics study?",
+      "options": [
+        "Nature",
+        "Beauty",
+        "#Morality",
+        "Truth"
+      ],
+      "id": 88
+    },
+    {
+      "text": "What does the science of aesthetics study?",
+      "options": [
+        "Morality",
+        "Law",
+        "Truth",
+        "#Beauty (the aesthetic in reality and art)"
+      ],
+      "id": 89
+    },
+    {
+      "text": "Which paired category belongs to ethics?",
+      "options": [
+        "Cause and effect",
+        "Beautiful and ugly",
+        "#Good and evil",
+        "Form and content"
+      ],
+      "id": 90
+    },
+    {
+      "text": "Which paired category belongs to aesthetics?",
+      "options": [
+        "Cause and effect",
+        "Good and evil",
+        "Possibility and reality",
+        "#Beautiful and ugly"
+      ],
+      "id": 91
+    },
+    {
+      "text": "Which law belongs to the dialectical law?",
+      "options": [
+        "#The law of transition of quantitative changes into qualitative ones",
+        "The law of identity",
+        "The law of non-contradiction",
+        "The law of sufficient reason"
+      ],
+      "id": 92
+    },
+    {
+      "text": "How many universal laws are there in dialectics?",
+      "options": [
+        "#Three",
+        "Two",
+        "Four",
+        "Five"
+      ],
+      "id": 93
+    },
+    {
+      "text": "What kind of science is art the object of research?",
+      "options": [
+        "#Aesthetics",
+        "Ethics",
+        "Logic",
+        "Ontology"
+      ],
+      "id": 94
+    },
+    {
+      "text": "Who created the scientific foundations of the concept of human animal origin?",
+      "options": [
+        "Gregor Mendel",
+        "#Charles Darwin",
+        "Carl Linnaeus",
+        "Jean-Baptiste Lamarck"
+      ],
+      "id": 95
+    },
+    {
+      "text": "What does the category \"Cause\" mean?",
+      "options": [
+        "A phenomenon resulting from another phenomenon",
+        "The potential for something to occur",
+        "The inner content of an object",
+        "#A phenomenon that gives rise to another phenomenon (the effect)"
+      ],
+      "id": 96
+    },
+    {
+      "text": "In what science do they study the law of the excluded middle?",
+      "options": [
+        "#Logic",
+        "Ethics",
+        "Dialectics",
+        "Aesthetics"
+      ],
+      "id": 97
+    },
+    {
+      "text": "In what science do they study the law of unity and struggle of opposites?",
+      "options": [
+        "#Dialectics",
+        "Ethics",
+        "Formal logic",
+        "Aesthetics"
+      ],
+      "id": 98
+    },
+    {
+      "text": "In what science is the law of contradiction (non-contradiction) studied?",
+      "options": [
+        "#Logic",
+        "Ethics",
+        "Dialectics",
+        "Aesthetics"
+      ],
+      "id": 99
+    },
+    {
+      "text": "Who considered water to be the substantial basis of the world?",
+      "options": [
+        "Heraclitus",
+        "#Thales",
+        "Democritus",
+        "Anaximenes"
+      ],
+      "id": 100
+    },
+    {
+      "text": "Who considered air to be the substantial basis of the world?",
+      "options": [
+        "#Anaximenes",
+        "Democritus",
+        "Heraclitus",
+        "Thales"
+      ],
+      "id": 101
+    },
+    {
+      "text": "Who considered fire to be the substantial basis of the world?",
+      "options": [
+        "Pythagoras",
+        "#Heraclitus",
+        "Thales",
+        "Anaximenes"
+      ],
+      "id": 102
+    },
+    {
+      "text": "Who believed that the world originated from the smallest particles – atoms?",
+      "options": [
+        "#Democritus",
+        "Plato",
+        "Aristotle",
+        "Thales"
+      ],
+      "id": 103
+    },
+    {
+      "text": "Which historical form of worldview is the first?",
+      "options": [
+        "Science",
+        "Religion",
+        "#Mythology",
+        "Philosophy"
+      ],
+      "id": 104
+    },
+    {
+      "text": "What does the word Renaissance mean in French?",
+      "options": [
+        "Enlightenment",
+        "#Rebirth",
+        "Revolution",
+        "Reform"
+      ],
+      "id": 105
+    },
+    {
+      "text": "What religion is associated with the development of medieval Western philosophy?",
+      "options": [
+        "#Christianity",
+        "Buddhism",
+        "Islam",
+        "Zoroastrianism"
+      ],
+      "id": 106
+    },
+    {
+      "text": "What does the word \"Jadid\" mean in Arabic?",
+      "options": [
+        "Faithful",
+        "Wise",
+        "#New",
+        "Old"
+      ],
+      "id": 107
+    },
+    {
+      "text": "When did Jadidism appear?",
+      "options": [
+        "In the 15th century",
+        "#In the late 19th and early 20th centuries",
+        "In the mid-20th century",
+        "In the 17th century"
+      ],
+      "id": 108
+    },
+    {
+      "text": "Which of the ancient philosophers is the founder of the atomistic theory of the world?",
+      "options": [
+        "Plato",
+        "Socrates",
+        "#Democritus",
+        "Heraclitus"
+      ],
+      "id": 109
+    },
+    {
+      "text": "Which of the ancient philosophers put forward the \"golden\" rule of morality – \"Do not do to others what you do not wish for yourself\"?",
+      "options": [
+        "Aristotle",
+        "Lao Tzu",
+        "#Confucius",
+        "Heraclitus"
+      ],
+      "id": 110
+    },
+    {
+      "text": "What form of cognition does sensualism belong to?",
+      "options": [
+        "Intuitive cognition",
+        "Rational cognition",
+        "Abstract-logical cognition",
+        "#Sensory cognition"
+      ],
+      "id": 111
+    },
+    {
+      "text": "In what philosophical direction is reason absolutized in the process of cognition?",
+      "options": [
+        "Empiricism",
+        "Agnosticism",
+        "#Rationalism",
+        "Sensualism"
+      ],
+      "id": 112
+    },
+    {
+      "text": "In what philosophical direction is experience absolutized in the process of cognition?",
+      "options": [
+        "Rationalism",
+        "Scholasticism",
+        "#Empiricism",
+        "Mysticism"
+      ],
+      "id": 113
+    },
+    {
+      "text": "To what stage of cognition do such forms of thinking as concept, judgment, and inference belong?",
+      "options": [
+        "Mystical insight",
+        "#Rational (logical) cognition",
+        "Sensory cognition",
+        "Practical activity only"
+      ],
+      "id": 114
+    },
+    {
+      "text": "To what stage of cognition do such forms of thinking as sensation, perception, and representation belong?",
+      "options": [
+        "Abstract cognition",
+        "Theoretical cognition",
+        "Rational cognition",
+        "#Sensory cognition"
+      ],
+      "id": 115
+    },
+    {
+      "text": "Which philosophical science is the study of thinking?",
+      "options": [
+        "Ethics",
+        "#Logic",
+        "Ontology",
+        "Aesthetics"
+      ],
+      "id": 116
+    },
+    {
+      "text": "What does the word \"pragma\" mean in Greek?",
+      "options": [
+        "#Action (deed)",
+        "Knowledge",
+        "Value",
+        "Being"
+      ],
+      "id": 117
+    },
+    {
+      "text": "How many articles are in the new edition of the Constitution of the Republic of Uzbekistan?",
+      "options": [
+        "140",
+        "128",
+        "165",
+        "#155"
+      ],
+      "id": 118
+    },
+    {
+      "text": "How many sections are in the new edition of the Constitution of the Republic of Uzbekistan?",
+      "options": [
+        "#6",
+        "8",
+        "4",
+        "5"
+      ],
+      "id": 119
+    },
+    {
+      "text": "What are the types of conclusions?",
+      "options": [
+        "Analytical, synthetic and abstract",
+        "#Inductive, deductive and by analogy",
+        "Sensory, perceptual and representational",
+        "Descriptive, normative and evaluative"
+      ],
+      "id": 120
+    },
+    {
+      "text": "What is the object of philosophy as a science?",
+      "options": [
+        "Only the laws of nature",
+        "Only the laws of social development",
+        "Only the structure of the human psyche",
+        "#The world as a whole and the relationship of man to the world"
+      ],
+      "id": 121
+    },
+    {
+      "text": "What is the study of the subject of philosophy?",
+      "options": [
+        "The rules of grammar",
+        "#The most general laws of being, cognition and the development of society",
+        "The structure of living cells",
+        "The laws of chemical reactions"
+      ],
+      "id": 122
+    },
+    {
+      "text": "What is the function of philosophy that forms an integral system of human views on the world?",
+      "options": [
+        "Methodological function",
+        "Critical function",
+        "#Worldview function",
+        "Predictive function"
+      ],
+      "id": 123
+    },
+    {
+      "text": "What is the methodological function of philosophy?",
+      "options": [
+        "Forming a system of views on the world",
+        "Criticizing existing knowledge only",
+        "Predicting the future of society",
+        "#Developing general methods and principles of cognition and activity"
+      ],
+      "id": 124
+    },
+    {
+      "text": "What is meant by a worldview?",
+      "options": [
+        "A set of scientific experiments",
+        "A set of laws of formal logic",
+        "A sum of personal habits",
+        "#A system of views on the world and man's place in it"
+      ],
+      "id": 125
+    },
+    {
+      "text": "What problem is the main question of philosophy related to?",
+      "options": [
+        "#The relationship between thinking and being (consciousness and matter)",
+        "The relationship between man and woman",
+        "The relationship between theory and practice only",
+        "The relationship between society and the state"
+      ],
+      "id": 126
+    },
+    {
+      "text": "What does materialism assert from the standpoint of the main question of philosophy?",
+      "options": [
+        "Consciousness is primary and matter is secondary",
+        "There are two equal principles",
+        "#Matter is primary and consciousness is secondary",
+        "The world is unknowable"
+      ],
+      "id": 127
+    },
+    {
+      "text": "What is the essence of objective idealism?",
+      "options": [
+        "Matter is primary and determines consciousness",
+        "Only the individual's sensations exist",
+        "#An objectively existing spiritual principle (idea, world spirit) is primary and determines the world",
+        "The world cannot be known"
+      ],
+      "id": 128
+    },
+    {
+      "text": "When did philosophy first arise?",
+      "options": [
+        "In the 3rd century AD in Rome",
+        "#In the 7th-6th centuries BC, in Ancient India, China and Greece",
+        "In the 15th century AD in Western Europe",
+        "In the 19th century in Germany"
+      ],
+      "id": 129
+    },
+    {
+      "text": "Who is considered one of the first philosophers of Ancient Greece?",
+      "options": [
+        "Kant",
+        "#Thales",
+        "Descartes",
+        "Hegel"
+      ],
+      "id": 130
+    },
+    {
+      "text": "What gave rise to Sufism?",
+      "options": [
+        "The development of natural sciences",
+        "The spread of Christianity",
+        "Pagan fire-worship",
+        "#Ascetic and mystical trends in early Islam as a reaction to worldly luxury"
+      ],
+      "id": 131
+    },
+    {
+      "text": "Who is the outstanding thinker of Central Asia?",
+      "options": [
+        "Descartes",
+        "Hegel",
+        "#Al-Farabi",
+        "Aristotle"
+      ],
+      "id": 132
+    },
+    {
+      "text": "What does social philosophy study?",
+      "options": [
+        "Only the laws of thinking",
+        "Only nature",
+        "Only the human mind",
+        "#Society, its laws, structure and development"
+      ],
+      "id": 133
+    },
+    {
+      "text": "How does dialectics view the world?",
+      "options": [
+        "As a set of isolated objects",
+        "#As a world in constant development and universal interconnection",
+        "As an unknowable reality",
+        "As an unchanging set of things"
+      ],
+      "id": 134
+    },
+    {
+      "text": "What does the law of unity and struggle of opposites reveal?",
+      "options": [
+        "The result of development only",
+        "The form of development",
+        "The direction of development",
+        "#The source (driving force) of development"
+      ],
+      "id": 135
+    },
+    {
+      "text": "What explains the law of transition from quantitative to qualitative changes?",
+      "options": [
+        "The source of development",
+        "#The mechanism of development: accumulated quantitative changes lead to a qualitative leap",
+        "The repetition of the old in the new",
+        "The direction of development"
+      ],
+      "id": 136
+    },
+    {
+      "text": "What is being?",
+      "options": [
+        "A category denoting only the human consciousness",
+        "#A category denoting the existence of everything that exists",
+        "A category denoting only the soul",
+        "A category denoting only ideas"
+      ],
+      "id": 137
+    },
+    {
+      "text": "What is matter?",
+      "options": [
+        "An idea of the world spirit",
+        "#Objective reality given to man in his sensations",
+        "A set of sensations only",
+        "A product of human consciousness"
+      ],
+      "id": 138
+    },
+    {
+      "text": "How is movement understood in philosophy?",
+      "options": [
+        "As an illusion of the senses",
+        "As the displacement of bodies only",
+        "As a property of consciousness only",
+        "#As a mode of existence of matter; any change in general"
+      ],
+      "id": 139
+    },
+    {
+      "text": "What are space and time in relation to matter?",
+      "options": [
+        "Products of human consciousness",
+        "Independent substances apart from matter",
+        "#Forms of existence of matter",
+        "Forms of existence of the soul"
+      ],
+      "id": 140
+    },
+    {
+      "text": "What is development?",
+      "options": [
+        "#An irreversible, directed, regular change of objects",
+        "A simple repetition of the same states",
+        "Only a quantitative increase",
+        "A random change without direction"
+      ],
+      "id": 141
+    },
+    {
+      "text": "What is the source of knowledge for sensationalism?",
+      "options": [
+        "Reason",
+        "#Sensations (sensory experience)",
+        "Divine revelation",
+        "Innate ideas"
+      ],
+      "id": 142
+    },
+    {
+      "text": "What is the source of knowledge for rationalism?",
+      "options": [
+        "#Reason (the mind)",
+        "Sensations",
+        "Experience",
+        "Authority"
+      ],
+      "id": 143
+    },
+    {
+      "text": "What is the source of knowledge for empiricism?",
+      "options": [
+        "Revelation",
+        "#Experience",
+        "Innate ideas",
+        "Reason"
+      ],
+      "id": 144
+    },
+    {
+      "text": "What is truth in philosophy?",
+      "options": [
+        "#Correspondence of knowledge to reality; adequate reflection of an object in consciousness",
+        "The opinion of the majority",
+        "A useful and convenient belief",
+        "A subjective feeling of confidence"
+      ],
+      "id": 145
+    },
+    {
+      "text": "What is absolute truth in philosophy?",
+      "options": [
+        "Incomplete, approximate knowledge",
+        "A hypothesis that is not yet proven",
+        "#Complete, exhaustive knowledge of an object that cannot be refuted",
+        "An opinion of the majority"
+      ],
+      "id": 146
+    },
+    {
+      "text": "What does logic study?",
+      "options": [
+        "The laws of social development",
+        "The laws of aesthetic perception",
+        "#The forms and laws of correct thinking",
+        "The laws of nature"
+      ],
+      "id": 147
+    },
+    {
+      "text": "What does the law of non-contradiction affirm?",
+      "options": [
+        "Every thought must be identical to itself",
+        "Of two contradictory judgments one must be true and no third is possible",
+        "Every thought must have a sufficient reason",
+        "#Two contradictory judgments cannot both be true at the same time and in the same respect"
+      ],
+      "id": 148
+    },
+    {
+      "text": "What are the forms of thinking?",
+      "options": [
+        "Thesis, antithesis, synthesis",
+        "Hypothesis, theory, law",
+        "Sensation, perception, representation",
+        "#Concept, judgment, inference"
+      ],
+      "id": 149
+    },
+    {
+      "text": "What is inference?",
+      "options": [
+        "#A form of thinking in which a new judgment is derived from one or more judgments",
+        "A form of thinking that reflects the essential features of an object",
+        "A form of sensory image of an object",
+        "A form of thinking that affirms or denies something"
+      ],
+      "id": 150
+    },
+    {
+      "text": "What is the main factor in the development of society?",
+      "options": [
+        "Politics",
+        "Religion",
+        "#Material production (labor)",
+        "Art"
+      ],
+      "id": 151
+    },
+    {
+      "text": "What influences personality formation?",
+      "options": [
+        "Only biological heredity",
+        "Only chance",
+        "Only natural climate",
+        "#Social environment, upbringing and education"
+      ],
+      "id": 152
+    },
+    {
+      "text": "What is culture?",
+      "options": [
+        "Only the technical tools of production",
+        "#The totality of material and spiritual values created by humanity",
+        "Only the achievements of art",
+        "Only the natural resources of a country"
+      ],
+      "id": 153
+    },
+    {
+      "text": "What characterizes mass culture?",
+      "options": [
+        "Scientific rigor and exclusiveness",
+        "Elitism and complexity",
+        "Strict religious canon",
+        "#Standardization, orientation to mass consumption and entertainment"
+      ],
+      "id": 154
+    },
+    {
+      "text": "What does philosophical anthropology study?",
+      "options": [
+        "Only the structure of the human body",
+        "Only social institutions",
+        "Only the laws of the economy",
+        "#Man, his nature, essence and place in the world"
+      ],
+      "id": 155
+    },
+    {
+      "text": "What does Homo Economicus mean?",
+      "options": [
+        "#A rational person who acts in his own economic interest",
+        "A person guided only by moral feelings",
+        "A person who rejects all material goods",
+        "An ascetic dedicated to God"
+      ],
+      "id": 156
+    },
+    {
+      "text": "Who is the founder of pragmatism?",
+      "options": [
+        "John Locke",
+        "Auguste Comte",
+        "Immanuel Kant",
+        "#Charles Peirce"
+      ],
+      "id": 157
+    },
+    {
+      "text": "What do national values reflect?",
+      "options": [
+        "Only the natural resources of the country",
+        "Only the economic achievements of the state",
+        "Only the military power of the state",
+        "#The spiritual and moral heritage, history and traditions of the people"
+      ],
+      "id": 158
+    },
+    {
+      "text": "What functions does the family perform?",
+      "options": [
+        "#Reproductive, educational, economic and emotional-supportive functions",
+        "Only judicial functions",
+        "Only legislative functions",
+        "Only military functions"
+      ],
+      "id": 159
+    },
+    {
+      "text": "What does the professional ethics of an economist imply?",
+      "options": [
+        "Ignoring laws for the sake of efficiency",
+        "#Honesty, responsibility, transparency and observing ethical norms in economic activity",
+        "Concealing information from society",
+        "Maximizing profit by any means"
+      ],
+      "id": 160
+    },
+    {
+      "text": "What kind of science does the category of \"beauty\" belong to?",
+      "options": [
+        "Ethics",
+        "Logic",
+        "#Aesthetics",
+        "Ontology"
+      ],
+      "id": 161
+    },
+    {
+      "text": "What kind of process is globalization?",
+      "options": [
+        "#The process of worldwide economic, political and cultural integration",
+        "The process of the decline of trade",
+        "The process of dividing the world into blocs only",
+        "The process of isolation of states"
+      ],
+      "id": 162
+    },
+    {
+      "text": "What does sustainable development imply?",
+      "options": [
+        "Maximum exploitation of natural resources",
+        "Stopping all economic growth",
+        "Developing only one rich region",
+        "#Meeting the needs of the present without compromising the ability of future generations to meet theirs"
+      ],
+      "id": 163
+    },
+    {
+      "text": "Why is the environmental problem global?",
+      "options": [
+        "Because it concerns only developed countries",
+        "Because it affects only one continent",
+        "Because it is a temporary local phenomenon",
+        "#Because it affects all countries and threatens the whole of humanity"
+      ],
+      "id": 164
+    },
+    {
+      "text": "What is artificial intelligence?",
+      "options": [
+        "A biological form of life",
+        "#The ability of computer systems to perform tasks that normally require human intelligence",
+        "A set of purely mechanical tools",
+        "A method of manual calculation"
+      ],
+      "id": 165
+    },
+    {
+      "text": "What is the main feature of artificial intelligence?",
+      "options": [
+        "The ability to feel pain",
+        "#The ability to learn from data and make decisions",
+        "The ability to work without electricity",
+        "The ability to reproduce biologically"
+      ],
+      "id": 166
+    },
+    {
+      "text": "What is corruption?",
+      "options": [
+        "#The abuse of official position for personal gain",
+        "A traditional form of gift-giving",
+        "A form of legal entrepreneurship",
+        "A form of charity"
+      ],
+      "id": 167
+    },
+    {
+      "text": "What does public control imply in the fight against corruption?",
+      "options": [
+        "Control only by the officials themselves",
+        "Complete secrecy of state activity",
+        "#Monitoring of state bodies by citizens and civil society institutions",
+        "Control only by state security bodies"
+      ],
+      "id": 168
+    },
+    {
+      "text": "What is the characteristic of ancient philosophy?",
+      "options": [
+        "Technocentrism",
+        "Anthropocentrism",
+        "#Cosmocentrism (focus on nature and the cosmos)",
+        "Theocentrism"
+      ],
+      "id": 169
+    },
+    {
+      "text": "What method did Socrates use?",
+      "options": [
+        "#The method of dialogue (maieutics): questions and answers to reach truth",
+        "The method of mathematical proof",
+        "The method of experiment",
+        "The method of dogmatic lecturing"
+      ],
+      "id": 170
+    },
+    {
+      "text": "What was primary for Plato?",
+      "options": [
+        "The sensory world",
+        "#The world of ideas",
+        "The material world",
+        "The social world"
+      ],
+      "id": 171
+    },
+    {
+      "text": "Which science was founded by Aristotle?",
+      "options": [
+        "#Logic",
+        "Political economy",
+        "Psychoanalysis",
+        "Sociology"
+      ],
+      "id": 172
+    },
+    {
+      "text": "What was the focus of medieval philosophy?",
+      "options": [
+        "#God (theocentrism)",
+        "Nature",
+        "The state",
+        "Man"
+      ],
+      "id": 173
+    },
+    {
+      "text": "What idea did the Renaissance elevate?",
+      "options": [
+        "The idea of absolute monarchy",
+        "#The idea of the value of man (humanism, anthropocentrism)",
+        "The idea of divine power",
+        "The idea of the primacy of the cosmos"
+      ],
+      "id": 174
+    },
+    {
+      "text": "Quantitative changes lead to what?",
+      "options": [
+        "#Qualitative changes",
+        "Return to the former state",
+        "Complete stagnation",
+        "The disappearance of the object without trace"
+      ],
+      "id": 175
+    },
+    {
+      "text": "What is a method?",
+      "options": [
+        "A form of belief",
+        "A random set of facts",
+        "A final result of cognition",
+        "#A way of achieving a goal; a set of techniques and operations of cognition"
+      ],
+      "id": 176
+    },
+    {
+      "text": "What is induction?",
+      "options": [
+        "Reasoning only by authority",
+        "#Reasoning from particular facts to general conclusions",
+        "Reasoning only by intuition",
+        "Reasoning from general rules to particular cases"
+      ],
+      "id": 177
+    },
+    {
+      "text": "What is deduction?",
+      "options": [
+        "#Reasoning from general premises to particular conclusions",
+        "Reasoning from particular facts to general conclusions",
+        "Reasoning only by experiment",
+        "Reasoning only by comparison"
+      ],
+      "id": 178
+    },
+    {
+      "text": "What does the law of sufficient reason state?",
+      "options": [
+        "Of two contradictory judgments one is true",
+        "A thought cannot be both true and false",
+        "Every thought must be identical to itself",
+        "#Every thought must be supported by sufficient grounds (proof)"
+      ],
+      "id": 179
+    },
+    {
+      "text": "What is the reason for the development of modern society?",
+      "options": [
+        "Rejection of education",
+        "Stagnation of production",
+        "Isolation from other countries",
+        "#Scientific and technological progress (innovations)"
+      ],
+      "id": 180
+    },
+    {
+      "text": "What are the main levels of organization of matter in inanimate nature?",
+      "options": [
+        "Concepts, judgments and inferences",
+        "Cells, tissues, organs and organisms",
+        "#Elementary particles, atoms, molecules, cosmic bodies and systems",
+        "Individuals, families, classes and states"
+      ],
+      "id": 181
+    },
+    {
+      "text": "What characterizes the biological level of matter?",
+      "options": [
+        "Only the interaction of social groups",
+        "#Metabolism, self-reproduction and heredity of living systems",
+        "Only mechanical displacement",
+        "Absence of any development"
+      ],
+      "id": 182
+    },
+    {
+      "text": "What is the social form of the movement of matter related to?",
+      "options": [
+        "Only chemical reactions",
+        "Only mechanical movement of bodies",
+        "#Human society and the activity of people",
+        "Only the behavior of animals"
+      ],
+      "id": 183
+    },
+    {
+      "text": "What is sensation?",
+      "options": [
+        "A logical inference about an object",
+        "An image of an object reproduced from memory",
+        "#The reflection in consciousness of individual properties of objects acting directly on the senses",
+        "A holistic image of an object"
+      ],
+      "id": 184
+    },
+    {
+      "text": "What is perception?",
+      "options": [
+        "#A holistic sensory image of an object acting directly on the senses",
+        "A reflection of individual properties of an object",
+        "A logical inference about an object",
+        "A concept of an object"
+      ],
+      "id": 185
+    },
+    {
+      "text": "What is representation?",
+      "options": [
+        "A reflection of individual properties of an object",
+        "A judgment about an object",
+        "#A sensory image of an object not currently perceived, reproduced from memory or imagination",
+        "A holistic image of a directly present object"
+      ],
+      "id": 186
+    },
+    {
+      "text": "What is practice in philosophy?",
+      "options": [
+        "#Sensory-objective activity of people transforming reality; the criterion of truth",
+        "Only religious ritual",
+        "Only artistic imagination",
+        "Only abstract reasoning"
+      ],
+      "id": 187
+    },
+    {
+      "text": "What is methodology?",
+      "options": [
+        "The doctrine of being",
+        "The doctrine of values",
+        "The doctrine of beauty",
+        "#The doctrine of methods and the structure of organizing activity"
+      ],
+      "id": 188
+    },
+    {
+      "text": "What is analysis?",
+      "options": [
+        "Separating features by authority",
+        "#Mental or practical division of a whole into its component parts",
+        "Combining parts into a whole",
+        "Comparing two objects"
+      ],
+      "id": 189
+    },
+    {
+      "text": "What is synthesis?",
+      "options": [
+        "Isolating one feature only",
+        "#Mental or practical combining of parts into a whole",
+        "Dividing a whole into parts",
+        "Comparing objects by similarity"
+      ],
+      "id": 190
+    },
+    {
+      "text": "What does abstraction mean?",
+      "options": [
+        "Combining parts into a whole",
+        "#Mentally separating essential features of an object while ignoring non-essential ones",
+        "Observing an object directly",
+        "Dividing an object into parts"
+      ],
+      "id": 191
+    },
+    {
+      "text": "What is modeling used for?",
+      "options": [
+        "#Studying an object by means of its model (replica)",
+        "Observing an object only with the senses",
+        "Proving a thesis by authority",
+        "Dividing an object into parts"
+      ],
+      "id": 192
+    },
+    {
+      "text": "What does the law of identity state?",
+      "options": [
+        "Every thought must have sufficient grounds",
+        "Two contradictory judgments cannot both be true",
+        "Of two contradictory judgments one is necessarily true",
+        "#A thought must remain identical to itself in the course of reasoning (A is A)"
+      ],
+      "id": 193
+    },
+    {
+      "text": "What does civil society presuppose?",
+      "options": [
+        "Total state control over all spheres of life",
+        "Rule of one social group",
+        "Complete absence of laws",
+        "#A developed system of independent institutions and the rights and freedoms of citizens"
+      ],
+      "id": 194
+    },
+    {
+      "text": "What does social progress mean?",
+      "options": [
+        "#Progressive development from lower to higher, more perfect forms",
+        "Complete stagnation",
+        "Cyclical repetition of the same states",
+        "Movement from higher to lower forms"
+      ],
+      "id": 195
+    },
+    {
+      "text": "What is regression?",
+      "options": [
+        "The accumulation of knowledge",
+        "Development from lower to higher",
+        "#Movement from higher to lower; a return to obsolete forms",
+        "Complete stagnation"
+      ],
+      "id": 196
+    },
+    {
+      "text": "What does the civilizational approach to history emphasize?",
+      "options": [
+        "#The uniqueness and originality of each civilization",
+        "The primacy of economic factors only",
+        "The unity of all peoples under one state",
+        "The absence of cultural differences"
+      ],
+      "id": 197
+    },
+    {
+      "text": "What is morality?",
+      "options": [
+        "#A form of social consciousness regulating human behavior through the notions of good and evil",
+        "A system of artistic images",
+        "A set of scientific theories",
+        "A system of state laws with sanctions"
+      ],
+      "id": 198
+    },
+    {
+      "text": "What is conscience?",
+      "options": [
+        "Indifference to other people",
+        "#Inner moral self-control and a sense of responsibility for one's actions",
+        "Following the opinion of the majority",
+        "Fear of state punishment"
+      ],
+      "id": 199
+    },
+    {
+      "text": "What does humanism claim?",
+      "options": [
+        "#The human being is the highest value; respect for human dignity",
+        "The state is the highest value",
+        "Nature is subordinate to God only",
+        "Wealth is the highest value"
+      ],
+      "id": 200
+    },
+    {
+      "text": "The demographic problem is related to what?",
+      "options": [
+        "Only lack of fresh water",
+        "Only nuclear weapons",
+        "Only climate change",
+        "#Population growth or decline and its structure"
+      ],
+      "id": 201
+    },
+    {
+      "text": "The food problem is caused by what?",
+      "options": [
+        "Excessive supply of food",
+        "Absence of agriculture in all countries",
+        "The overproduction of industrial goods only",
+        "#Population growth, unequal distribution of resources and climate change"
+      ],
+      "id": 202
+    },
+    {
+      "text": "The information society is characterized by what?",
+      "options": [
+        "The leading role of agriculture",
+        "The leading role of natural resources only",
+        "The leading role of manual labor",
+        "#The leading role of information, knowledge and ICT"
+      ],
+      "id": 203
+    },
+    {
+      "text": "The digitalization of society leads to what?",
+      "options": [
+        "A decrease in the role of information",
+        "Complete rejection of technology",
+        "#Transformation of the economy, governance and everyday life through digital technologies",
+        "The disappearance of the state"
+      ],
+      "id": 204
+    },
+    {
+      "text": "Where is artificial intelligence used?",
+      "options": [
+        "Only in the military sphere",
+        "#In many fields: medicine, education, industry, finance and others",
+        "Only in space exploration",
+        "Only in agriculture"
+      ],
+      "id": 205
+    },
+    {
+      "text": "What is the ethical problem of artificial intelligence related to?",
+      "options": [
+        "#Responsibility, privacy, bias and the consequences of decisions made by AI",
+        "Only the speed of processors",
+        "Only the design of devices",
+        "Only the cost of equipment"
+      ],
+      "id": 206
+    },
+    {
+      "text": "What measures are there to combat corruption?",
+      "options": [
+        "#Preventive, legal and institutional measures, transparency and public control",
+        "Reducing the independence of courts",
+        "Concealing information",
+        "Abolishing responsibility"
+      ],
+      "id": 207
+    },
+    {
+      "text": "What is the basis of the rule of law?",
+      "options": [
+        "The will of one ruler",
+        "#Supremacy of law and equality of all before the law",
+        "Lack of regulation",
+        "Social privileges"
+      ],
+      "id": 208
+    },
+    {
+      "text": "What is the basis of a market economy?",
+      "options": [
+        "Barter only",
+        "#Private property, competition and free pricing",
+        "Complete state planning",
+        "Prohibition of entrepreneurship"
+      ],
+      "id": 209
+    },
+    {
+      "text": "What does democracy presuppose?",
+      "options": [
+        "Power of one social class only",
+        "Power of one ruler",
+        "Power of the military",
+        "#Power of the people, free elections and protection of human rights"
+      ],
+      "id": 210
+    },
+    {
+      "text": "What characterizes authoritarianism?",
+      "options": [
+        "Separation of powers and free elections",
+        "Broad political pluralism",
+        "Self-government of citizens",
+        "#Concentration of power and limitation of freedoms"
+      ],
+      "id": 211
+    },
+    {
+      "text": "What is tolerance?",
+      "options": [
+        "Indifference to all values",
+        "#Respect and acceptance of differences in views, cultures and beliefs",
+        "Imposing one's own beliefs on others",
+        "Rejection of any dialogue"
+      ],
+      "id": 212
+    },
+    {
+      "text": "What does pluralism presuppose?",
+      "options": [
+        "The suppression of dissent",
+        "A single party only",
+        "A single ideology",
+        "#A diversity of opinions, positions and social groups"
+      ],
+      "id": 213
+    },
+    {
+      "text": "What is ideology?",
+      "options": [
+        "A set of religious rituals",
+        "A set of purely scientific facts",
+        "A form of artistic expression only",
+        "#A system of views and ideas expressing the interests of social groups"
+      ],
+      "id": 214
+    },
+    {
+      "text": "What does the scientific revolution mean?",
+      "options": [
+        "A small increase in the number of facts",
+        "A return to old theories",
+        "#A fundamental qualitative change in scientific knowledge and the picture of the world",
+        "The end of scientific research"
+      ],
+      "id": 215
+    },
+    {
+      "text": "What do ethical norms regulate?",
+      "options": [
+        "Only the movement of planets",
+        "#The behavior of people and relationships between them",
+        "Only the flow of money",
+        "Only the weather"
+      ],
+      "id": 216
+    },
+    {
+      "text": "What is altruism?",
+      "options": [
+        "Indifference to others",
+        "Striving for personal power",
+        "#Selfless concern for the good of others",
+        "Concern only for one's own interests"
+      ],
+      "id": 217
+    },
+    {
+      "text": "What does egoism imply?",
+      "options": [
+        "Sacrificing oneself for society",
+        "#Prioritizing one's own interests over the interests of others",
+        "Complete indifference to oneself",
+        "Selfless service to others"
+      ],
+      "id": 218
+    },
+    {
+      "text": "What is a hypothesis?",
+      "options": [
+        "A random guess with no basis",
+        "A proven law",
+        "A religious dogma",
+        "#A scientifically grounded assumption that requires proof"
+      ],
+      "id": 219
+    },
+    {
+      "text": "What is an object of knowledge?",
+      "options": [
+        "#The part of reality toward which cognitive activity is directed",
+        "The tool of research",
+        "The person who carries out cognition",
+        "The result of the experiment only"
+      ],
+      "id": 220
+    },
+    {
+      "text": "What is the subject of cognition?",
+      "options": [
+        "#The one who knows: a person or social group carrying out cognition",
+        "The part of reality being studied",
+        "A scientific law",
+        "A research instrument"
+      ],
+      "id": 221
+    },
+    {
+      "text": "What does evolution imply?",
+      "options": [
+        "Sudden destruction of everything",
+        "#Gradual, continuous development and change",
+        "Complete stagnation",
+        "Return to the primitive state"
+      ],
+      "id": 222
+    },
+    {
+      "text": "What is innovation?",
+      "options": [
+        "#The introduction of a new idea, technology or product",
+        "The repetition of old methods",
+        "The rejection of any change",
+        "The destruction of production"
+      ],
+      "id": 223
+    },
+    {
+      "text": "What does ecological culture imply?",
+      "options": [
+        "Exploitation of nature without limits",
+        "Indifference to the environment",
+        "Unlimited consumption of resources",
+        "#A responsible attitude to nature and ecological awareness"
+      ],
+      "id": 224
+    },
+    {
+      "text": "What does sustainable development require?",
+      "options": [
+        "Only the exploitation of nature",
+        "The rejection of technology",
+        "Only economic growth",
+        "#A balance between economic growth, social justice and environmental protection"
+      ],
+      "id": 225
+    },
+    {
+      "text": "In what conditions is cybersecurity relevant?",
+      "options": [
+        "#In conditions of widespread digital technologies and cyber threats",
+        "Only in wartime",
+        "Only in the absence of computers",
+        "Only in rural areas without internet"
+      ],
+      "id": 226
+    },
+    {
+      "text": "What does personal information culture include?",
+      "options": [
+        "#Skills of safe and responsible handling of information (data protection, critical evaluation)",
+        "Ignoring security rules",
+        "Avoiding all information",
+        "Sharing personal data freely"
+      ],
+      "id": 227
+    },
+    {
+      "text": "Is the digital economy based on what?",
+      "options": [
+        "Only natural resources",
+        "Only agriculture",
+        "#Digital technologies, data and the internet",
+        "Only manual labor"
+      ],
+      "id": 228
+    },
+    {
+      "text": "What are the features of philosophy as a form of social consciousness?",
+      "options": [
+        "#Theoretical, systematic, rational and critical reflection on the most general problems",
+        "Only practical rules of behavior",
+        "Only emotional perception of the world",
+        "Blind faith in authority"
+      ],
+      "id": 229
+    },
+    {
+      "text": "What does man mean as a biosocial being?",
+      "options": [
+        "Only the spiritual nature of man",
+        "Only the social nature of man",
+        "#The unity of the biological (natural) and the social in man",
+        "Only the biological nature of man"
+      ],
+      "id": 230
+    },
+    {
+      "text": "What is the highest good according to hedonism?",
+      "options": [
+        "Wealth",
+        "#Pleasure",
+        "Power",
+        "Duty"
+      ],
+      "id": 231
+    },
+    {
+      "text": "What is language",
+      "options": [
+        "A set of random sounds",
+        "#A system of signs serving as a means of communication and thinking",
+        "Only a form of art",
+        "Only a form of writing"
+      ],
+      "id": 232
+    },
+    {
+      "text": "Who is mass culture aimed at?",
+      "options": [
+        "Only scientists",
+        "Only the intellectual elite",
+        "#The broad masses (the wide public)",
+        "Only the ruling class"
+      ],
+      "id": 233
+    },
+    {
+      "text": "What is the basis of the scientific picture of the world?",
+      "options": [
+        "#Scientific data, achievements and laws verified by practice",
+        "Folk superstitions",
+        "Personal beliefs",
+        "Religious dogmas"
+      ],
+      "id": 234
+    },
+    {
+      "text": "Regression in society means what?",
+      "options": [
+        "Complete disappearance of society",
+        "Progressive development",
+        "Preservation of the same state",
+        "#Movement from higher to lower; decline and deterioration"
+      ],
+      "id": 235
+    },
+    {
+      "text": "One of the basic laws of dialectics: quantity turns into quality, which means?",
+      "options": [
+        "#Accumulated quantitative changes at a certain point lead to a qualitative leap",
+        "Quality never changes",
+        "Quantity and quality are unrelated",
+        "Quality disappears without any change"
+      ],
+      "id": 236
+    },
+    {
+      "text": "What is creative thinking related to?",
+      "options": [
+        "The repetition of ready-made patterns",
+        "#The generation of new ideas and original solutions",
+        "Mechanical memorization",
+        "Strict following of instructions"
+      ],
+      "id": 237
+    },
+    {
+      "text": "National values include what?",
+      "options": [
+        "Only natural resources",
+        "Only the economy",
+        "#Language, traditions, customs, religion and historical memory",
+        "Only military power"
+      ],
+      "id": 238
+    },
+    {
+      "text": "Mahalla as a national value is characterized by what?",
+      "options": [
+        "Competition for resources",
+        "#Community self-government, mutual help and neighborly solidarity",
+        "State monopoly on all community life",
+        "Isolation of families"
+      ],
+      "id": 239
+    },
+    {
+      "text": "What functions does the family perform?",
+      "options": [
+        "#Reproductive, educational, economic and emotional-supportive functions",
+        "Only military functions",
+        "Only judicial functions",
+        "Only legislative functions"
+      ],
+      "id": 240
+    },
+    {
+      "text": "Does the ethical aspect of global problems imply what?",
+      "options": [
+        "Only economic benefit",
+        "Rejection of any responsibility",
+        "#Moral responsibility of humanity for the future of the planet",
+        "Only the interests of one country"
+      ],
+      "id": 241
+    },
+    {
+      "text": "What is the environmental problem related to?",
+      "options": [
+        "Only the rules of grammar",
+        "Only the development of art",
+        "Only the structure of the human body",
+        "#The interaction of society and nature (pollution, depletion of resources)"
+      ],
+      "id": 242
+    },
+    {
+      "text": "What can artificial intelligence do in science?",
+      "options": [
+        "Work only with paper documents",
+        "#Process big data, build models and accelerate research",
+        "Replace the scientific method entirely",
+        "Eliminate the need for scientific theories"
+      ],
+      "id": 243
+    },
+    {
+      "text": "What is the future of humanity in the 21st century related to?",
+      "options": [
+        "Rejection of science",
+        "Unlimited use of natural resources",
+        "#Solving global problems, scientific-technological progress and sustainable development",
+        "Isolation of states"
+      ],
+      "id": 244
+    },
+    {
+      "text": "What does the global experience of fighting corruption include?",
+      "options": [
+        "Reducing the independence of courts",
+        "#International cooperation, legislation, transparency, prevention and education",
+        "Rejection of international cooperation",
+        "Concealing corruption cases"
+      ],
+      "id": 245
+    },
+    {
+      "text": "What is public control in the fight against corruption?",
+      "options": [
+        "Control only by the executive branch",
+        "Self-control by officials only",
+        "#Monitoring of the activity of state bodies by citizens and civil society",
+        "Complete secrecy of state activity"
+      ],
+      "id": 246
+    },
+    {
+      "text": "What is the basic principle of Taoism?",
+      "options": [
+        "Achieving nirvana by meditation",
+        "Worship of one God",
+        "Strict observance of rituals",
+        "#Following the Tao: living in harmony with nature and non-action (wu wei)"
+      ],
+      "id": 247
+    },
+    {
+      "text": "For what does Confucianism teach?",
+      "options": [
+        "The worship of fire",
+        "#Humaneness (ren), observance of rituals, respect for elders and moral self-improvement",
+        "Complete withdrawal from society",
+        "Rejecting all social norms"
+      ],
+      "id": 248
+    },
+    {
+      "text": "What is the philosophy of the Eastern Renaissance characterized by?",
+      "options": [
+        "#A flourishing of science, culture and humanistic secular ideas",
+        "A complete rejection of science",
+        "Dominance of dogmatic scholasticism",
+        "The decline of education"
+      ],
+      "id": 249
+    },
+    {
+      "text": "What were the scientific and educational reforms of Central Asia in the late 19th and early 20th centuries aimed at?",
+      "options": [
+        "Closing schools",
+        "#Modernization of education and enlightenment of the people (new-method schools)",
+        "Banning books",
+        "Preserving the old order unchanged"
+      ],
+      "id": 250
+    },
+    {
+      "text": "The philosophical foundations of the New Renaissance in Uzbekistan include what?",
+      "options": [
+        "Rejection of science",
+        "#Education, science, spiritual heritage, human dignity and innovation",
+        "Dependence on raw-material exports only",
+        "Isolation from the world"
+      ],
+      "id": 251
+    },
+    {
+      "text": "Why does science contribute to the development of society?",
+      "options": [
+        "Because it opposes all innovation",
+        "Because it limits education",
+        "Because it rejects practice",
+        "#Because it produces knowledge and technologies that raise productivity and living standards"
+      ],
+      "id": 252
+    },
+    {
+      "text": "Does the family perform a social function, expressed in what?",
+      "options": [
+        "Only military service",
+        "#Reproduction, upbringing, socialization of children and support of its members",
+        "Only trade",
+        "Only the making of laws"
+      ],
+      "id": 253
+    },
+    {
+      "text": "Does human philosophy study what?",
+      "options": [
+        "Only the laws of the economy",
+        "#Man, his essence, his place in the world and the meaning of life",
+        "Only the movement of planets",
+        "Only the structure of the body"
+      ],
+      "id": 254
+    },
+    {
+      "text": "The scientific worldview is based primarily on what?",
+      "options": [
+        "Religious dogmas",
+        "Personal opinions",
+        "Myths and legends",
+        "#Scientific knowledge verified by practice and facts"
+      ],
+      "id": 255
+    },
+    {
+      "text": "What is the function of philosophy related to the critical analysis of existing knowledge?",
+      "options": [
+        "The predictive function",
+        "#The critical function",
+        "The axiological function",
+        "The worldview function"
+      ],
+      "id": 256
+    },
+    {
+      "text": "The predictive function of philosophy is aimed at what?",
+      "options": [
+        "Rejecting all knowledge",
+        "Studying only the present moment",
+        "#Foreseeing the trends and prospects of future development",
+        "Describing only the past"
+      ],
+      "id": 257
+    },
+    {
+      "text": "What is the axiological function of philosophy related to?",
+      "options": [
+        "The structure of matter",
+        "The laws of formal logic",
+        "#The system of values, value orientations and the meaning of life",
+        "The methods of scientific experiment"
+      ],
+      "id": 258
+    },
+    {
+      "text": "The philosophy of economics explores what?",
+      "options": [
+        "#The philosophical foundations of economic activity (wealth, labor, value, ethics)",
+        "Only the technical details of banking",
+        "Only the laws of physics",
+        "Only accounting rules"
+      ],
+      "id": 259
+    },
+    {
+      "text": "What is characteristic of the philosophy of the Ancient East?",
+      "options": [
+        "#Orientation to moral and spiritual perfection and harmony of man and nature",
+        "Orientation to pure technology",
+        "Orientation to material profit only",
+        "Rejection of any moral teaching"
+      ],
+      "id": 260
+    },
+    {
+      "text": "What is the teaching of Confucius based on?",
+      "options": [
+        "Mysticism and withdrawal from society",
+        "#Humaneness, morality, respect and social harmony",
+        "The pursuit of pure pleasure",
+        "Rejection of social order"
+      ],
+      "id": 261
+    },
+    {
+      "text": "What is the central concept in Taoism?",
+      "options": [
+        "Li",
+        "Ren",
+        "Nirvana",
+        "#Tao"
+      ],
+      "id": 262
+    },
+    {
+      "text": "Does Buddhism teach about achieving what?",
+      "options": [
+        "Victory in battle",
+        "#Nirvana (liberation from suffering)",
+        "Eternal pleasure",
+        "Wealth and power"
+      ],
+      "id": 263
+    },
+    {
+      "text": "What is the concept of karma related to which religion?",
+      "options": [
+        "Christianity",
+        "Islam",
+        "#Hinduism (Indian religions)",
+        "Zoroastrianism"
+      ],
+      "id": 264
+    },
+    {
+      "text": "What is the Eastern Renaissance associated with?",
+      "options": [
+        "The rise of capitalism in Europe",
+        "#The flourishing of science, philosophy and culture in Central Asia and the Middle East in the 9th-12th centuries",
+        "The decline of science in the 9th century",
+        "The industrial revolution"
+      ],
+      "id": 265
+    },
+    {
+      "text": "Ibn Sina contributed to the development of which sciences?",
+      "options": [
+        "Only military science",
+        "Only astronomy",
+        "#Medicine, philosophy and natural sciences",
+        "Only mathematics"
+      ],
+      "id": 266
+    },
+    {
+      "text": "Eastern philosophy is primarily focused on For what?",
+      "options": [
+        "Technological progress only",
+        "Conquest of nature",
+        "Material profit only",
+        "#Spiritual self-improvement, harmony and the inner world of man"
+      ],
+      "id": 267
+    },
+    {
+      "text": "What does relativism say about truth?",
+      "options": [
+        "Truth is always the opinion of the majority",
+        "Truth is absolute and unchangeable",
+        "Truth does not exist",
+        "#Truth is relative and depends on conditions or on the subject"
+      ],
+      "id": 268
+    },
+    {
+      "text": "The connection between what and what does the judgment express?",
+      "options": [
+        "The connection between sensation and perception",
+        "#The connection between the subject and the predicate (object and its property)",
+        "The connection between cause and effect only",
+        "The connection between two concepts only"
+      ],
+      "id": 269
+    },
+    {
+      "text": "What is society in the philosophical sense?",
+      "options": [
+        "Only the state apparatus",
+        "Only the natural environment",
+        "Only the sum of individuals",
+        "#A historically developing set of relations and joint activity of people"
+      ],
+      "id": 270
+    },
+    {
+      "text": "How does civilization differ from culture?",
+      "options": [
+        "#Civilization is mainly the material-technical level of development, culture is the sphere of spiritual values",
+        "They are exactly the same",
+        "Culture is only technology, civilization only art",
+        "Civilization concerns only nature, culture only the economy"
+      ],
+      "id": 271
+    },
+    {
+      "text": "According to the views of pragmatism, what defines the truth?",
+      "options": [
+        "Authority of tradition",
+        "The opinion of the majority",
+        "Correspondence to divine will",
+        "#Practical usefulness and success"
+      ],
+      "id": 272
+    },
+    {
+      "text": "What is value?",
+      "options": [
+        "The age of the object",
+        "The number of its properties",
+        "#The significance of an object for a person or society",
+        "The physical size of the object"
+      ],
+      "id": 273
+    },
+    {
+      "text": "What are the main categories in ethics?",
+      "options": [
+        "Form and content",
+        "#Good and evil, duty, conscience, justice and honor",
+        "Cause and effect",
+        "Beautiful and ugly"
+      ],
+      "id": 274
+    },
+    {
+      "text": "What does aesthetics study?",
+      "options": [
+        "Moral behavior of people",
+        "#Beauty and the aesthetic attitude of man to reality, art",
+        "The laws of correct thinking",
+        "The structure of matter"
+      ],
+      "id": 275
+    },
+    {
+      "text": "Is the philosophy of Modern times connected with the development of what?",
+      "options": [
+        "The dominance of religious dogma",
+        "#The development of science (natural sciences) and rationalism",
+        "The decline of science",
+        "The dominance of mythology"
+      ],
+      "id": 276
+    },
+    {
+      "text": "Did the Enlightenment advocate what?",
+      "options": [
+        "Rejection of science",
+        "Absolute monarchy",
+        "#Reason, education, freedom and progress",
+        "Blind faith in authority"
+      ],
+      "id": 277
+    },
+    {
+      "text": "Which outstanding philosophers represent German classical philosophy?",
+      "options": [
+        "Thales, Anaximenes and Heraclitus",
+        "Locke, Berkeley and Hume",
+        "#Kant, Fichte, Schelling, Hegel and Feuerbach",
+        "Socrates, Plato and Aristotle"
+      ],
+      "id": 278
+    },
+    {
+      "text": "What does dialectics assert as a doctrine of development?",
+      "options": [
+        "That things exist in isolation from each other",
+        "#That everything develops through contradictions and is in universal interconnection",
+        "That nothing ever changes",
+        "That development is only a repetition of the old"
+      ],
+      "id": 279
+    },
+    {
+      "text": "What is consequence as a philosophical category?",
+      "options": [
+        "#The result of the action of a cause",
+        "The inner content of an object",
+        "The potential for something to happen",
+        "The reason for a phenomenon"
+      ],
+      "id": 280
+    },
+    {
+      "text": "What is possibility as a philosophical category?",
+      "options": [
+        "A necessary connection only",
+        "#The potential for something to occur; a tendency in reality",
+        "A purely random coincidence",
+        "A realized fact"
+      ],
+      "id": 281
+    },
+    {
+      "text": "What is reality as a philosophical category?",
+      "options": [
+        "A purely imaginary object",
+        "An unrealized potential",
+        "An illusion of consciousness",
+        "#A realized possibility; that which actually exists"
+      ],
+      "id": 282
+    },
+    {
+      "text": "What does the category \"concept\" reflect?",
+      "options": [
+        "An individual feature of an object",
+        "A random sense impression",
+        "A direct sensation",
+        "#The essential features of a class of objects"
+      ],
+      "id": 283
+    },
+    {
+      "text": "What is a judgment as a philosophical category?",
+      "options": [
+        "#A form of thought that affirms or denies something about an object",
+        "A derivation of one thought from another",
+        "A holistic sensory image",
+        "A reflection of individual properties"
+      ],
+      "id": 284
+    },
+    {
+      "text": "What is an inference as a philosophical category?",
+      "options": [
+        "A holistic sensory image of an object",
+        "#A form of thinking by which a new judgment is derived from known ones",
+        "A form that reflects essential features of an object",
+        "A form that affirms or denies something"
+      ],
+      "id": 285
+    },
+    {
+      "text": "What is relative truth?",
+      "options": [
+        "A random opinion",
+        "Complete knowledge that never changes",
+        "#Incomplete, approximate knowledge that changes as knowledge develops",
+        "False knowledge"
+      ],
+      "id": 286
+    },
+    {
+      "text": "What does the law of non-contradiction require?",
+      "options": [
+        "#Consistency of reasoning, with no contradictions",
+        "That every thought be proven by practice only",
+        "Identity of the thought with itself",
+        "Existence of a third possibility"
+      ],
+      "id": 287
+    },
+    {
+      "text": "What does the law of sufficient reason imply?",
+      "options": [
+        "A thought must be identical to itself",
+        "Two contradictory judgments cannot both be true",
+        "#Every thought must have sufficient grounds",
+        "Of two contradictory judgments, one must be true"
+      ],
+      "id": 288
+    },
+    {
+      "text": "What is the state?",
+      "options": [
+        "A religious community",
+        "A group of friends",
+        "A purely economic firm",
+        "#The political organization of society with an apparatus of power over a territory"
+      ],
+      "id": 289
+    },
+    {
+      "text": "How does a person differ from an individual?",
+      "options": [
+        "A person is identical to an individual in every respect",
+        "A person is only a biological specimen of the species",
+        "A person is a being without social ties",
+        "#A person is a socially significant individual with a conscious, active position"
+      ],
+      "id": 290
+    },
+    {
+      "text": "What is tragic in aesthetics related to?",
+      "options": [
+        "Pure decoration",
+        "A purely ordinary event",
+        "The harmless comic situation",
+        "#The conflict between ideal and reality; suffering and the death of a hero"
+      ],
+      "id": 291
+    },
+    {
+      "text": "What does the category \"comic\" express?",
+      "options": [
+        "#The contradiction between pretension and actual content that evokes laughter",
+        "The suffering of a hero",
+        "A sublime heroic act",
+        "A pure natural beauty"
+      ],
+      "id": 292
+    },
+    {
+      "text": "What functions does art perform?",
+      "options": [
+        "#Cognitive, educational, aesthetic and hedonistic functions",
+        "Only legislative functions",
+        "Only military functions",
+        "Only trade functions"
+      ],
+      "id": 293
+    },
+    {
+      "text": "What are the global problems of our time characterized by?",
+      "options": [
+        "A purely theoretical interest",
+        "A concern for one state only",
+        "#Planetary scale, a threat to humanity and the need for joint efforts",
+        "Local scale and no danger"
+      ],
+      "id": 294
+    },
+    {
+      "text": "What is the biosphere?",
+      "options": [
+        "The gas shell of the planet only",
+        "#The shell of the Earth inhabited by living organisms",
+        "The solar system",
+        "The core of the Earth"
+      ],
+      "id": 295
+    },
+    {
+      "text": "What is the Vernadsky’s noosphere?",
+      "options": [
+        "#The sphere of reason: the stage of the biosphere where human intellect becomes a decisive geological force",
+        "The sphere of pure matter without life",
+        "The sphere of the atmosphere only",
+        "The sphere of religion"
+      ],
+      "id": 296
+    },
+    {
+      "text": "What undermines corruption?",
+      "options": [
+        "Scientific progress only",
+        "#Trust in institutions, the economy and justice",
+        "Economic growth only",
+        "Education only"
+      ],
+      "id": 297
+    },
+    {
+      "text": "What does social justice imply?",
+      "options": [
+        "Privileges for the few",
+        "The rule of the strong",
+        "#Fair distribution of goods and equal opportunities",
+        "Absolute equality of income for all"
+      ],
+      "id": 298
+    },
+    {
+      "text": "What is freedom of speech?",
+      "options": [
+        "The duty to remain silent",
+        "The right to spread any slander",
+        "The state's right to forbid any criticism",
+        "#The right to freely express one's opinions"
+      ],
+      "id": 299
+    },
+    {
+      "text": "What is personality socialization?",
+      "options": [
+        "The process of forgetting traditions",
+        "#The process of assimilating social norms, values and roles",
+        "The process of isolation from society",
+        "The process of biological growth only"
+      ],
+      "id": 300
+    }
+  ]
+}
