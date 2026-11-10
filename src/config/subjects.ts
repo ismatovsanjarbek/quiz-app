@@ -25,8 +25,8 @@ export const SUBJECTS: SubjectConfig[] = [
     description: 'No time to ragebait',
     icon: 'book',
     color: 'from-orange-500 to-amber-500',
-    questionsCount: 302,
-    groupsCount: 13,
+    questionsCount: 217,
+    groupsCount: 9,
   },
 ]
 
