@@ -20,39 +20,12 @@ export interface SubjectConfig {
 
 export const SUBJECTS: SubjectConfig[] = [
   {
-    id: 'academic-skills',
-    name: 'Academic nonsense',
-    description: 'Bro, you have time for that, do it tomorrow, it is easy-peasy ;)',
+    id: 'statistics',
+    name: 'Hurry ladies and gentle niggas',
+    description: 'No time to ragebait',
     icon: 'book',
     color: 'from-orange-500 to-amber-500',
     questionsCount: 302,
-    groupsCount: 13,
-  },
-  {
-    id: 'economic-theories',
-    name: 'Boring theories',
-    description: "you'd better study this shit now, don't forget that you were so close to fail!",
-    icon: 'target',
-    color: 'from-green-500 to-emerald-500',
-    questionsCount: 301,
-    groupsCount: 13,
-  },
-  {
-    id: 'philosophy',
-    name: 'Boring but fun',
-    description: "Why do I exist?",
-    icon: 'target',
-    color: 'from-green-500 to-emerald-500',
-    questionsCount: 300,
-    groupsCount: 13,
-  },
-  {
-    id: 'philosophy2',
-    name: 'Philosophy 2',
-    description: "Who cares how I exist?",
-    icon: 'target',
-    color: 'from-green-500 to-emerald-500',
-    questionsCount: 300,
     groupsCount: 13,
   },
 ]

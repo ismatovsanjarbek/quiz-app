@@ -1,0 +1,2174 @@
+{
+  "questions": [
+    {
+      "text": "What are the four scales of measurement in statistics?",
+      "options": [
+        "Categorical, ordinal, discrete, ratio",
+        "Nominal, ordinal, discrete, continuous",
+        "Qualitative, quantitative, interval, ratio",
+        "#Nominal, ordinal, interval, ratio"
+      ],
+      "id": 1
+    },
+    {
+      "text": "Why is the nominal scale considered the weakest level of measurement?",
+      "options": [
+        "It ranks values but cannot count them",
+        "It can only be used with continuous data",
+        "#It only labels categories, with no order or numerical meaning",
+        "It has an absolute zero but no equal intervals"
+      ],
+      "id": 2
+    },
+    {
+      "text": "How does the ordinal scale differ from the nominal scale?",
+      "options": [
+        "Ordinal data have an absolute zero",
+        "Ordinal data are always numerical measurements",
+        "Ordinal data allow addition and subtraction",
+        "#Ordinal categories have a meaningful order or ranking"
+      ],
+      "id": 3
+    },
+    {
+      "text": "What distinguishes the interval scale from the ordinal scale?",
+      "options": [
+        "Interval has an absolute zero",
+        "Interval only labels categories",
+        "#Interval has equal, meaningful distances between values",
+        "Interval permits only the mode as a measure of center"
+      ],
+      "id": 4
+    },
+    {
+      "text": "Why does the ratio scale allow the widest range of statistical operations?",
+      "options": [
+        "It has an arbitrary zero",
+        "It only requires ranking of values",
+        "Its values are labels that can only be counted",
+        "#It has equal intervals and an absolute zero, so ratios are meaningful"
+      ],
+      "id": 5
+    },
+    {
+      "text": "What types of statistical analyses are appropriate for each scale of measurement?",
+      "options": [
+        "Nominal/ordinal: parametric methods; interval/ratio: nonparametric methods",
+        "Only ratio data can be analyzed statistically",
+        "All scales allow the same parametric tests",
+        "#Nominal/ordinal: nonparametric methods; interval/ratio: parametric methods"
+      ],
+      "id": 6
+    },
+    {
+      "text": "Why can we not compute a meaningful mean for ordinal data?",
+      "options": [
+        "Ordinal data have an absolute zero",
+        "Ordinal data have no order",
+        "#Intervals between ranks are unequal or unknown",
+        "Ordinal data are always continuous"
+      ],
+      "id": 7
+    },
+    {
+      "text": "How does the presence of an absolute zero affect the interpretation of data?",
+      "options": [
+        "Zero is arbitrary, so ratios are meaningless",
+        "Zero means the mean equals the median",
+        "#Zero means absence of the quantity, so ratios are meaningful",
+        "Zero means the data are categorical"
+      ],
+      "id": 8
+    },
+    {
+      "text": "What is the difference between qualitative and quantitative variables in terms of measurement scales?",
+      "options": [
+        "#Qualitative: nominal/ordinal; quantitative: interval/ratio",
+        "Qualitative: nominal only; quantitative: ordinal only",
+        "Qualitative: interval/ratio; quantitative: nominal/ordinal",
+        "Both qualitative and quantitative use only the ratio scale"
+      ],
+      "id": 9
+    },
+    {
+      "text": "Why is it important to identify the scale of measurement before choosing a statistical test?",
+      "options": [
+        "It determines the significance level",
+        "It is not important because any test works on any data",
+        "#It determines which assumptions hold and whether a parametric or nonparametric test is valid",
+        "It determines the sample size"
+      ],
+      "id": 10
+    },
+    {
+      "text": "What is the difference between categorical and quantitative data?",
+      "options": [
+        "Categorical data are always continuous",
+        "Categorical data are numerical measurements; quantitative data are labels",
+        "There is no difference",
+        "#Categorical data are labels/groups (counted); quantitative data are numerical measurements"
+      ],
+      "id": 11
+    },
+    {
+      "text": "Why can categorical data only be summarized using frequencies and proportions?",
+      "options": [
+        "Categorical data always have a mean of zero",
+        "Categorical data always contain outliers",
+        "Categorical data cannot be graphed",
+        "#Labels have no numerical meaning, so only counts and shares make sense"
+      ],
+      "id": 12
+    },
+    {
+      "text": "How do quantitative data differ from categorical data in terms of graphical representation?",
+      "options": [
+        "Quantitative: bar chart only; categorical: boxplot only",
+        "Quantitative: pie chart; categorical: histogram",
+        "#Quantitative: histogram, boxplot, dot plot; categorical: bar chart, pie chart",
+        "Both use only pie charts"
+      ],
+      "id": 13
+    },
+    {
+      "text": "What are the two subtypes of quantitative data?",
+      "options": [
+        "Interval and categorical",
+        "Cross-sectional and time series",
+        "Nominal and ordinal",
+        "#Discrete and continuous"
+      ],
+      "id": 14
+    },
+    {
+      "text": "Why is it inappropriate to calculate the average of categorical data?",
+      "options": [
+        "#Labels have no numerical value; use the mode or frequencies instead",
+        "Categorical data sets are too large",
+        "Averages only work for time series",
+        "The mean requires nominal data"
+      ],
+      "id": 15
+    },
+    {
+      "text": "How can categorical data be converted into quantitative data for analysis?",
+      "options": [
+        "By calculating their geometric mean",
+        "#By coding them as dummy (indicator) variables",
+        "By computing their standard error",
+        "By taking their square root"
+      ],
+      "id": 16
+    },
+    {
+      "text": "What are the limitations of using categorical data in regression analysis?",
+      "options": [
+        "Categorical data can never be used in regression",
+        "They need no coding or baseline",
+        "They always produce an R-squared of 1",
+        "#Dummy variables are required and coefficients are interpreted relative to a baseline category"
+      ],
+      "id": 17
+    },
+    {
+      "text": "Why is it important to distinguish between discrete and continuous quantitative data?",
+      "options": [
+        "It determines whether the scale has an absolute zero",
+        "It has no effect on analysis",
+        "#Counting vs measuring determines the probability distribution and graph used",
+        "It only matters for nominal data"
+      ],
+      "id": 18
+    },
+    {
+      "text": "How does the type of data influence the choice of descriptive statistics?",
+      "options": [
+        "All data types use only the range",
+        "All data types use only the median",
+        "All data types use the mean",
+        "#Nominal: mode/frequency; ordinal: median; numerical: mean and SD"
+      ],
+      "id": 19
+    },
+    {
+      "text": "What graphical methods are best suited for displaying categorical data?",
+      "options": [
+        "#Bar chart, pie chart, Pareto chart",
+        "Histogram, scatter plot, ogive",
+        "Boxplot, histogram, time plot",
+        "Scatter plot, ogive, boxplot"
+      ],
+      "id": 20
+    },
+    {
+      "text": "What is cross-sectional data?",
+      "options": [
+        "#Data collected at the same point in time from many individuals, households or firms",
+        "Data recorded in chronological order with a trend",
+        "Repeated data from one individual only",
+        "Data collected over time on a single unit"
+      ],
+      "id": 21
+    },
+    {
+      "text": "What is time series data?",
+      "options": [
+        "#Observations recorded in chronological order at regular time intervals",
+        "Data with no time dimension",
+        "Randomly ordered data from many firms",
+        "A snapshot of many units at one point in time"
+      ],
+      "id": 22
+    },
+    {
+      "text": "How does cross-sectional data differ from time series data?",
+      "options": [
+        "Cross-sectional: one unit over time; time series: many units at one time",
+        "There is no difference",
+        "Cross-sectional data show trend and seasonality",
+        "#Cross-sectional: many units at one time; time series: one unit over time"
+      ],
+      "id": 23
+    },
+    {
+      "text": "Why is time series data often analyzed using forecasting methods?",
+      "options": [
+        "It has no pattern",
+        "It cannot be graphed",
+        "#It contains trend, seasonality and cycles that help predict future values",
+        "It contains only categorical values"
+      ],
+      "id": 24
+    },
+    {
+      "text": "What are the main components of a time series?",
+      "options": [
+        "Trend, nominal, ordinal, ratio",
+        "#Trend, seasonal, cyclical, irregular",
+        "Mean, median, mode, range",
+        "Level, slope, z-score, p-value"
+      ],
+      "id": 25
+    },
+    {
+      "text": "What is the purpose of descriptive statistics?",
+      "options": [
+        "To generalize from a sample to a population",
+        "To build confidence intervals",
+        "#To summarize, organize and present data",
+        "To test hypotheses about a population"
+      ],
+      "id": 26
+    },
+    {
+      "text": "What are the main measures of central tendency?",
+      "options": [
+        "Z-score, percentile, correlation",
+        "Q1, Q3, IQR",
+        "Range, variance, standard deviation",
+        "#Mean, median, mode"
+      ],
+      "id": 27
+    },
+    {
+      "text": "What are the main measures of variability?",
+      "options": [
+        "Mean, median, mode",
+        "Frequency, proportion, count",
+        "#Range, variance, standard deviation, IQR",
+        "Mode, median, z-score"
+      ],
+      "id": 28
+    },
+    {
+      "text": "Why is it important to report both measures of central tendency and variability?",
+      "options": [
+        "They are always equal",
+        "Center alone is always sufficient",
+        "#Center and spread together give a complete picture of the data",
+        "Spread replaces the need for a center"
+      ],
+      "id": 29
+    },
+    {
+      "text": "How do descriptive statistics differ from inferential statistics?",
+      "options": [
+        "#Descriptive summarizes data; inferential generalizes from sample to population using probability",
+        "Descriptive generalizes using probability; inferential only summarizes",
+        "Both are identical",
+        "Descriptive uses only populations; inferential uses only graphs"
+      ],
+      "id": 30
+    },
+    {
+      "text": "What is the difference between a parameter and a statistic?",
+      "options": [
+        "Both describe only samples",
+        "#A parameter describes a population; a statistic describes a sample",
+        "Both describe only populations",
+        "A parameter describes a sample; a statistic describes a population"
+      ],
+      "id": 31
+    },
+    {
+      "text": "Why are graphical methods important in descriptive statistics?",
+      "options": [
+        "#They reveal patterns, distribution shape and outliers",
+        "They are used only for nominal data",
+        "They are needed to compute the mean",
+        "They replace all numerical measures"
+      ],
+      "id": 32
+    },
+    {
+      "text": "Why is the mode the only measure of central tendency suitable for nominal data?",
+      "options": [
+        "#Categories have no order or numerical value, only frequencies",
+        "The mode requires an absolute zero",
+        "Nominal data have equal intervals",
+        "The mode needs ranked data"
+      ],
+      "id": 33
+    },
+    {
+      "text": "What is statistical inference?",
+      "options": [
+        "Summarizing a sample only",
+        "Drawing graphs of data",
+        "#Using sample data to draw conclusions about a population",
+        "Collecting data from the entire population"
+      ],
+      "id": 34
+    },
+    {
+      "text": "Why is statistical inference necessary in research?",
+      "options": [
+        "Samples are always exact copies of populations",
+        "Populations are always known",
+        "#Populations are rarely fully measurable, so we generalize from samples while accounting for uncertainty",
+        "It replaces descriptive statistics"
+      ],
+      "id": 35
+    },
+    {
+      "text": "Why is sampling variability important in statistical inference?",
+      "options": [
+        "All samples give identical results",
+        "Random sampling eliminates it completely",
+        "It only affects populations",
+        "#Different samples give different estimates; standard error and margin of error quantify this"
+      ],
+      "id": 36
+    },
+    {
+      "text": "How does sample size affect the accuracy of statistical inference?",
+      "options": [
+        "Larger samples give larger standard error",
+        "#Larger samples give smaller standard error and greater precision",
+        "Sample size has no effect",
+        "Larger samples always widen confidence intervals"
+      ],
+      "id": 37
+    },
+    {
+      "text": "What is a frequency distribution?",
+      "options": [
+        "#A table of classes/intervals with the count of observations in each",
+        "A table of proportions only",
+        "A running total chart",
+        "A table of z-scores"
+      ],
+      "id": 38
+    },
+    {
+      "text": "What are the steps to construct a frequency distribution?",
+      "options": [
+        "Compute mean, SD and z-scores, then rank",
+        "#Find the range, choose number of classes, compute class width, tally frequencies",
+        "Compute SSE, slope and intercept",
+        "Sort alphabetically, assign labels, draw a pie chart"
+      ],
+      "id": 39
+    },
+    {
+      "text": "What is a relative frequency distribution?",
+      "options": [
+        "A table showing class midpoints",
+        "A table showing running totals",
+        "A table showing raw counts only",
+        "#A table showing the proportion or percentage of the total in each class"
+      ],
+      "id": 40
+    },
+    {
+      "text": "Why is it important to choose an appropriate number of classes?",
+      "options": [
+        "The number of classes does not matter",
+        "More classes are always better",
+        "#Too few hide patterns; too many obscure clarity",
+        "Fewer classes are always better"
+      ],
+      "id": 41
+    },
+    {
+      "text": "What is the difference between frequency and relative frequency?",
+      "options": [
+        "They are identical",
+        "Frequency is a proportion; relative frequency is a count",
+        "#Frequency is a count; relative frequency is the count divided by the total",
+        "Relative frequency is a running total"
+      ],
+      "id": 42
+    },
+    {
+      "text": "How do you determine the class width?",
+      "options": [
+        "Number of classes times the range",
+        "Mean divided by standard deviation",
+        "Maximum plus minimum",
+        "#Range divided by the number of classes, rounded up"
+      ],
+      "id": 43
+    },
+    {
+      "text": "What are the advantages of using relative frequency over frequency?",
+      "options": [
+        "It shows outliers directly",
+        "#It allows comparison of data sets with different sample sizes",
+        "It removes the need for classes",
+        "It produces larger numbers"
+      ],
+      "id": 44
+    },
+    {
+      "text": "What is a cumulative frequency distribution?",
+      "options": [
+        "The count in each class only",
+        "#A running total of frequencies up to each class (graphed as an ogive)",
+        "A list of class midpoints",
+        "The proportion of the total in each class"
+      ],
+      "id": 45
+    },
+    {
+      "text": "Why is it important to avoid overlapping class intervals?",
+      "options": [
+        "Overlap is needed to compute the mean",
+        "#Each value must belong to exactly one class (mutual exclusivity)",
+        "It is not important",
+        "Overlap makes classes narrower"
+      ],
+      "id": 46
+    },
+    {
+      "text": "What is the arithmetic mean?",
+      "options": [
+        "The nth root of the product of values",
+        "The middle value of ordered data",
+        "The most frequent value",
+        "#The sum of observations divided by the number of observations"
+      ],
+      "id": 47
+    },
+    {
+      "text": "When is the weighted mean more appropriate than the simple mean?",
+      "options": [
+        "When data are nominal",
+        "When there are no outliers",
+        "#When values have different importance or group sizes",
+        "When data are only ranked"
+      ],
+      "id": 48
+    },
+    {
+      "text": "What is the median?",
+      "options": [
+        "Maximum minus minimum",
+        "#The middle value of ordered data (50th percentile)",
+        "The most frequent value",
+        "The sum divided by n"
+      ],
+      "id": 49
+    },
+    {
+      "text": "Why is the median preferred over the mean for skewed data?",
+      "options": [
+        "The mean is resistant to outliers",
+        "The median always equals the mean",
+        "The median is easier for nominal data",
+        "#It is resistant to outliers and skewness"
+      ],
+      "id": 50
+    },
+    {
+      "text": "What is the mode?",
+      "options": [
+        "The difference between maximum and minimum",
+        "The middle value",
+        "The average value",
+        "#The most frequently occurring value"
+      ],
+      "id": 51
+    },
+    {
+      "text": "What is the geometric mean?",
+      "options": [
+        "The sum divided by n",
+        "The most frequent value",
+        "The middle value",
+        "#The nth root of the product of n values"
+      ],
+      "id": 52
+    },
+    {
+      "text": "When is the geometric mean more appropriate than the arithmetic mean?",
+      "options": [
+        "#For growth rates, ratios and investment returns",
+        "For counts of categories",
+        "For symmetric normal data only",
+        "For nominal data"
+      ],
+      "id": 53
+    },
+    {
+      "text": "How does the mean differ from the median in a skewed distribution?",
+      "options": [
+        "#The mean is pulled toward the tail",
+        "They are always equal",
+        "The median is pulled toward the tail",
+        "The mean is pulled away from the tail"
+      ],
+      "id": 54
+    },
+    {
+      "text": "Why can a data set have more than one mode?",
+      "options": [
+        "It is impossible",
+        "#Several values can tie for the highest frequency (bimodal/multimodal)",
+        "Only nominal data can have modes",
+        "It is a calculation error"
+      ],
+      "id": 55
+    },
+    {
+      "text": "What are the advantages and disadvantages of each measure of location?",
+      "options": [
+        "#Mean uses all data but is sensitive to outliers; median is robust; mode works for nominal data",
+        "All three measures are identical in every respect",
+        "Mean is robust; median is sensitive to outliers",
+        "Mode uses all data and is robust"
+      ],
+      "id": 56
+    },
+    {
+      "text": "What is a percentile?",
+      "options": [
+        "#A value below which a given percentage of ordered data falls",
+        "The middle value of the data",
+        "The most frequent value",
+        "The difference between maximum and minimum"
+      ],
+      "id": 57
+    },
+    {
+      "text": "What is a quartile?",
+      "options": [
+        "One of 99 values dividing data into 100 parts",
+        "The average of all observations",
+        "The most frequent class",
+        "#One of three values (Q1, Q2, Q3) dividing ordered data into four equal parts"
+      ],
+      "id": 58
+    },
+    {
+      "text": "How do you calculate the position of a percentile?",
+      "options": [
+        "Position = the mean times p",
+        "Position = n minus p squared",
+        "Position = n divided by the standard deviation",
+        "#Position = (p/100) × n in the ordered data, interpolating if needed"
+      ],
+      "id": 59
+    },
+    {
+      "text": "What is the difference between a percentile and a quartile?",
+      "options": [
+        "There is no difference",
+        "#Percentiles split data into 100 parts; quartiles split data into 4 parts",
+        "Both split data into 10 parts",
+        "Percentiles split data into 4 parts; quartiles into 100 parts"
+      ],
+      "id": 60
+    },
+    {
+      "text": "Why are quartiles important in descriptive statistics?",
+      "options": [
+        "They give the mean directly",
+        "They replace the standard deviation in all cases",
+        "They only apply to nominal data",
+        "#They measure spread (IQR) and underlie boxplots and the five-number summary"
+      ],
+      "id": 61
+    },
+    {
+      "text": "What does the 50th percentile represent?",
+      "options": [
+        "The maximum",
+        "The mode",
+        "#The median (Q2)",
+        "The mean"
+      ],
+      "id": 62
+    },
+    {
+      "text": "How can percentiles be used to identify outliers?",
+      "options": [
+        "Values equal to the median are outliers",
+        "Values equal to the mean are outliers",
+        "#Values beyond the lower and upper fences (Q1 − 1.5·IQR, Q3 + 1.5·IQR) are outliers",
+        "Values within the IQR are outliers"
+      ],
+      "id": 63
+    },
+    {
+      "text": "What is the interquartile range?",
+      "options": [
+        "#Q3 minus Q1, the spread of the middle 50% of the data",
+        "Maximum minus minimum",
+        "The square root of the variance",
+        "The average squared deviation"
+      ],
+      "id": 64
+    },
+    {
+      "text": "Why is the interquartile range preferred over the range for skewed data?",
+      "options": [
+        "It is not affected by sample size",
+        "#It is resistant to outliers because it uses the middle 50%",
+        "It is always larger than the range",
+        "It uses the two extreme values"
+      ],
+      "id": 65
+    },
+    {
+      "text": "How are percentiles used in standardized testing?",
+      "options": [
+        "To convert scores to nominal categories",
+        "To compute the mean score only",
+        "#To rank a score relative to other test takers (percentile rank)",
+        "To determine the test's variance"
+      ],
+      "id": 66
+    },
+    {
+      "text": "What is the range?",
+      "options": [
+        "Q3 minus Q1",
+        "The average squared deviation",
+        "#Maximum value minus minimum value",
+        "The middle value"
+      ],
+      "id": 67
+    },
+    {
+      "text": "What are the limitations of the range?",
+      "options": [
+        "It is resistant to outliers",
+        "It is hard to compute",
+        "It uses all values equally",
+        "#It uses only two values, ignores the rest and is distorted by outliers"
+      ],
+      "id": 68
+    },
+    {
+      "text": "Why is the IQR more robust than the range?",
+      "options": [
+        "#It is based on the middle 50% and ignores extreme values",
+        "It is always smaller than the standard deviation",
+        "It is based on the extreme values",
+        "It uses every observation squared"
+      ],
+      "id": 69
+    },
+    {
+      "text": "How is the IQR used in constructing a boxplot?",
+      "options": [
+        "It defines the median line only",
+        "#It defines the box and the fences (1.5 × IQR) that determine whiskers and outliers",
+        "It defines the mean marker",
+        "It is not used in boxplots"
+      ],
+      "id": 70
+    },
+    {
+      "text": "What does a large IQR indicate about the data?",
+      "options": [
+        "All values are equal",
+        "Low variability",
+        "Data are clustered near the median",
+        "#High variability: the middle 50% is widely spread"
+      ],
+      "id": 71
+    },
+    {
+      "text": "What does a small IQR indicate about the data?",
+      "options": [
+        "High variability",
+        "The data are nominal",
+        "#Low variability: the middle 50% is tightly clustered",
+        "The data have many outliers by definition"
+      ],
+      "id": 72
+    },
+    {
+      "text": "How can the range and IQR be used together?",
+      "options": [
+        "They always give the same value",
+        "They replace the median",
+        "#Range shows total spread; IQR shows middle spread; comparing them hints at outliers",
+        "They are used to compute the mean"
+      ],
+      "id": 73
+    },
+    {
+      "text": "Why is the range sensitive to extreme values?",
+      "options": [
+        "It depends on the mode",
+        "#It depends only on the maximum and minimum",
+        "It averages all deviations",
+        "It depends on the median"
+      ],
+      "id": 74
+    },
+    {
+      "text": "What are the advantages of using the IQR over the variance?",
+      "options": [
+        "It is always larger than the variance",
+        "#It is resistant to outliers and easy to interpret",
+        "It uses squared deviations",
+        "It is more affected by extreme values"
+      ],
+      "id": 75
+    },
+    {
+      "text": "What is variance?",
+      "options": [
+        "Maximum minus minimum",
+        "Q3 minus Q1",
+        "The average absolute deviation from the median",
+        "#The average squared deviation from the mean"
+      ],
+      "id": 76
+    },
+    {
+      "text": "What does a large variance indicate?",
+      "options": [
+        "Data are tightly clustered",
+        "Data are nominal",
+        "All values are equal",
+        "#High variability: data are widely dispersed"
+      ],
+      "id": 77
+    },
+    {
+      "text": "How is variance related to standard deviation?",
+      "options": [
+        "Variance is the square root of standard deviation",
+        "They are unrelated",
+        "Standard deviation is variance divided by n",
+        "#Standard deviation is the square root of variance"
+      ],
+      "id": 78
+    },
+    {
+      "text": "What is standard deviation?",
+      "options": [
+        "#The square root of the variance, a measure of spread in original units",
+        "The difference between mean and median",
+        "The square of the variance",
+        "The middle 50% spread"
+      ],
+      "id": 79
+    },
+    {
+      "text": "Why is standard deviation preferred over variance for interpretation?",
+      "options": [
+        "It is always larger",
+        "#It is in the original units of the data",
+        "It ignores the mean",
+        "It is in squared units"
+      ],
+      "id": 80
+    },
+    {
+      "text": "What does a standard deviation of zero indicate?",
+      "options": [
+        "The mean is zero",
+        "#No variability: all values are equal",
+        "The data are normally distributed",
+        "Very high variability"
+      ],
+      "id": 81
+    },
+    {
+      "text": "How does standard deviation relate to the mean?",
+      "options": [
+        "#It measures the typical distance of observations from the mean",
+        "It measures the distance from the median",
+        "It equals the mean",
+        "It is the mean divided by n"
+      ],
+      "id": 82
+    },
+    {
+      "text": "How is standard deviation used in the empirical rule?",
+      "options": [
+        "#Distances of 1, 2, 3 SDs from the mean contain about 68%, 95%, 99.7% of data",
+        "It is not used in the empirical rule",
+        "It gives the median",
+        "It gives the mode"
+      ],
+      "id": 83
+    },
+    {
+      "text": "What does a large standard deviation indicate about the data?",
+      "options": [
+        "All values are identical",
+        "The mean is large",
+        "#High variability: values are spread out",
+        "Values are close to the mean"
+      ],
+      "id": 84
+    },
+    {
+      "text": "Why is standard deviation important in quality control?",
+      "options": [
+        "It is irrelevant to quality control",
+        "It counts defects only",
+        "#It measures consistency and checks processes against specification limits",
+        "It measures the mean only"
+      ],
+      "id": 85
+    },
+    {
+      "text": "What is the coefficient of variation?",
+      "options": [
+        "The square of the standard deviation",
+        "Mean divided by median",
+        "#Standard deviation relative to the mean, expressed as a percentage",
+        "Q3 minus Q1"
+      ],
+      "id": 86
+    },
+    {
+      "text": "How is the coefficient of variation calculated?",
+      "options": [
+        "(Mean ÷ standard deviation) × 100",
+        "#(Standard deviation ÷ mean) × 100",
+        "Variance × mean",
+        "Range ÷ median"
+      ],
+      "id": 87
+    },
+    {
+      "text": "What does a high coefficient of variation indicate?",
+      "options": [
+        "Low variability relative to the mean",
+        "The data are nominal",
+        "The mean is zero",
+        "#High variability relative to the mean"
+      ],
+      "id": 88
+    },
+    {
+      "text": "What does a low coefficient of variation indicate?",
+      "options": [
+        "A negative mean",
+        "Many outliers",
+        "#Low relative variability: consistent, stable data",
+        "High relative variability"
+      ],
+      "id": 89
+    },
+    {
+      "text": "What are the limitations of the coefficient of variation?",
+      "options": [
+        "It cannot be expressed as a percentage",
+        "#It is undefined or unstable when the mean is near zero",
+        "It ignores the standard deviation",
+        "It requires nominal data"
+      ],
+      "id": 90
+    },
+    {
+      "text": "What is the empirical rule?",
+      "options": [
+        "About 90%, 95%, 99% lie within 1, 2, 3 SDs",
+        "#For bell-shaped data, about 68%, 95% and 99.7% lie within 1, 2 and 3 SDs of the mean",
+        "About 25%, 50%, 75% lie within 1, 2, 3 SDs",
+        "For any data, 50% lie within 1 SD"
+      ],
+      "id": 91
+    },
+    {
+      "text": "What are the three main percentages in the empirical rule?",
+      "options": [
+        "34%, 68%, 95%",
+        "68%, 90%, 99%",
+        "50%, 75%, 90%",
+        "#68%, 95%, 99.7%"
+      ],
+      "id": 92
+    },
+    {
+      "text": "How can the empirical rule be used to identify outliers?",
+      "options": [
+        "It cannot identify outliers",
+        "Values within one SD are outliers",
+        "#Values beyond three standard deviations from the mean are rare and unusual",
+        "Values equal to the mean are outliers"
+      ],
+      "id": 93
+    },
+    {
+      "text": "What does the empirical rule tell us about data within one standard deviation of the mean?",
+      "options": [
+        "#About 68% of the data lie there",
+        "About 99.7% lie there",
+        "About 50% lie there",
+        "About 95% lie there"
+      ],
+      "id": 94
+    },
+    {
+      "text": "What does the empirical rule tell us about data within two standard deviations of the mean?",
+      "options": [
+        "#About 95% of the data lie there",
+        "About 75% lie there",
+        "About 99.7% lie there",
+        "About 68% lie there"
+      ],
+      "id": 95
+    },
+    {
+      "text": "What does the empirical rule tell us about data within three standard deviations of the mean?",
+      "options": [
+        "About 95% lie there",
+        "#About 99.7% of the data lie there",
+        "About 68% lie there",
+        "About 100% lie there exactly"
+      ],
+      "id": 96
+    },
+    {
+      "text": "Why is the empirical rule important in statistical inference?",
+      "options": [
+        "It applies only to nominal data",
+        "It gives the sample size",
+        "It replaces hypothesis testing",
+        "#It underlies normal-distribution probabilities, z-scores and confidence intervals"
+      ],
+      "id": 97
+    },
+    {
+      "text": "What is a z-score?",
+      "options": [
+        "The value minus the median",
+        "The mean divided by the standard deviation",
+        "The percentage of data below a value",
+        "#The number of standard deviations a value is from the mean"
+      ],
+      "id": 98
+    },
+    {
+      "text": "Why is a z-score called a standardized score?",
+      "options": [
+        "Standardized data have variance 0",
+        "Standardized data have mean 1 and SD 0",
+        "#Standardized data have mean 0 and standard deviation 1",
+        "Standardized data have mean 100"
+      ],
+      "id": 99
+    },
+    {
+      "text": "How is a z-score calculated?",
+      "options": [
+        "Value ÷ mean",
+        "(Mean − value) × standard deviation",
+        "Standard deviation ÷ (value − mean)",
+        "#(Value − mean) ÷ standard deviation"
+      ],
+      "id": 100
+    },
+    {
+      "text": "What does a positive z-score indicate?",
+      "options": [
+        "The value is an outlier",
+        "The value is below the mean",
+        "#The value is above the mean",
+        "The value equals the mean"
+      ],
+      "id": 101
+    },
+    {
+      "text": "What does a negative z-score indicate?",
+      "options": [
+        "The value is above the mean",
+        "#The value is below the mean",
+        "The data are invalid",
+        "The value equals the mean"
+      ],
+      "id": 102
+    },
+    {
+      "text": "What is a five-number summary?",
+      "options": [
+        "Mean, mode, variance, SD, range",
+        "#Minimum, Q1, median, Q3, maximum",
+        "Q1, Q2, Q3, Q4, mean",
+        "Min, mean, mode, max, IQR"
+      ],
+      "id": 103
+    },
+    {
+      "text": "Why is the five-number summary useful for describing a data set?",
+      "options": [
+        "It gives the variance",
+        "#It shows center, spread, skewness and potential outliers resistantly",
+        "It works only for nominal data",
+        "It gives the exact mean"
+      ],
+      "id": 104
+    },
+    {
+      "text": "What is a boxplot?",
+      "options": [
+        "A graph of class frequencies as bars",
+        "A scatter of two variables",
+        "A graph of running totals",
+        "#A graph showing the five-number summary with box, whiskers and outliers"
+      ],
+      "id": 105
+    },
+    {
+      "text": "How is a boxplot constructed from a five-number summary?",
+      "options": [
+        "Whiskers from Q1 to Q3",
+        "#Box from Q1 to Q3 with median line; whiskers extend to the fences/non-outlier extremes",
+        "Box from min to max only",
+        "Box from mean to median"
+      ],
+      "id": 106
+    },
+    {
+      "text": "What does the length of the box in a boxplot represent?",
+      "options": [
+        "The mean",
+        "The range",
+        "#The IQR (spread of the middle 50%)",
+        "The standard deviation"
+      ],
+      "id": 107
+    },
+    {
+      "text": "What do the whiskers in a boxplot represent?",
+      "options": [
+        "The median",
+        "#The range of non-outlier data (within 1.5 × IQR of the box)",
+        "The mean ± SD",
+        "The interquartile range"
+      ],
+      "id": 108
+    },
+    {
+      "text": "How can a boxplot be used to identify outliers?",
+      "options": [
+        "Boxplots cannot show outliers",
+        "Points inside the box are outliers",
+        "The median is the outlier",
+        "#Points beyond the whiskers (more than 1.5 × IQR) are plotted as outliers"
+      ],
+      "id": 109
+    },
+    {
+      "text": "What does the position of the median in a boxplot indicate about skewness?",
+      "options": [
+        "Median near Q1 means left skew",
+        "Median at the minimum means symmetric",
+        "#Median near center: symmetric; closer to Q1: right skew; closer to Q3: left skew",
+        "Median position says nothing about shape"
+      ],
+      "id": 110
+    },
+    {
+      "text": "Why are boxplots useful for comparing multiple data sets?",
+      "options": [
+        "They only compare means",
+        "They show every raw value",
+        "#Side-by-side boxplots compare center, spread and outliers at once",
+        "They compute p-values"
+      ],
+      "id": 111
+    },
+    {
+      "text": "What is the correlation coefficient?",
+      "options": [
+        "#A measure of the strength and direction of a linear relationship, from −1 to 1",
+        "A measure of the sample size",
+        "A measure of central tendency",
+        "A measure of spread"
+      ],
+      "id": 112
+    },
+    {
+      "text": "What does a correlation coefficient of +1 indicate?",
+      "options": [
+        "A perfect negative linear relationship",
+        "#A perfect positive linear relationship",
+        "No relationship",
+        "A nonlinear relationship"
+      ],
+      "id": 113
+    },
+    {
+      "text": "What does a correlation coefficient of −1 indicate?",
+      "options": [
+        "A perfect positive linear relationship",
+        "No relationship",
+        "Zero variance",
+        "#A perfect negative linear relationship"
+      ],
+      "id": 114
+    },
+    {
+      "text": "What does a correlation coefficient of 0 indicate?",
+      "options": [
+        "A perfect nonlinear relationship",
+        "A causal relationship",
+        "A perfect linear relationship",
+        "#No linear relationship"
+      ],
+      "id": 115
+    },
+    {
+      "text": "What is the standard normal distribution?",
+      "options": [
+        "A normal distribution with mean 1 and standard deviation 0",
+        "A skewed distribution with mean 0",
+        "#A bell-shaped, symmetric normal distribution with mean 0 and standard deviation 1",
+        "A uniform distribution between 0 and 1"
+      ],
+      "id": 116
+    },
+    {
+      "text": "Why is the standard normal distribution important in statistics?",
+      "options": [
+        "It always has variance greater than 1",
+        "#It lets us use z-scores and one table to find probabilities for any normal variable",
+        "It applies only to nominal data",
+        "It eliminates the need for sampling"
+      ],
+      "id": 117
+    },
+    {
+      "text": "How is a normal distribution converted to a standard normal distribution?",
+      "options": [
+        "By squaring each value",
+        "By taking the logarithm",
+        "#By standardizing: z = (x − mean) ÷ standard deviation",
+        "By dividing by the sample size"
+      ],
+      "id": 118
+    },
+    {
+      "text": "What are the properties of the standard normal distribution?",
+      "options": [
+        "Bimodal, mean 0, SD 2, area 1",
+        "Symmetric, mean 1, SD 1, area 0.5",
+        "Skewed right, mean 1, SD 0, area 100",
+        "#Symmetric, mean 0, SD 1, total area 1"
+      ],
+      "id": 119
+    },
+    {
+      "text": "How is the standard normal table used?",
+      "options": [
+        "Look up a frequency to get the class width",
+        "Look up a p-value to get the sample size",
+        "#Look up a z-score to get the area (probability) to its left",
+        "Look up a mean to get the standard deviation"
+      ],
+      "id": 120
+    },
+    {
+      "text": "What is the total area under the standard normal curve?",
+      "options": [
+        "0",
+        "#1 (100%)",
+        "Depends on the z-score",
+        "0.5"
+      ],
+      "id": 121
+    },
+    {
+      "text": "How can the standard normal distribution be used to find probabilities?",
+      "options": [
+        "#Convert to a z-score and read the area from the z-table",
+        "Compute the range",
+        "Multiply the mean by the SD",
+        "Count the frequency of each value"
+      ],
+      "id": 122
+    },
+    {
+      "text": "Why is the normal distribution symmetric?",
+      "options": [
+        "Its mean is always larger than the median",
+        "#Its mean, median and mode are equal, producing a bell shape centered on the mean",
+        "It has two modes",
+        "It has a long right tail"
+      ],
+      "id": 123
+    },
+    {
+      "text": "What is the relationship between the standard normal distribution and the empirical rule?",
+      "options": [
+        "Within z = ±1 lies 50% of the area",
+        "There is no relationship",
+        "#Within z = ±1, ±2, ±3 lie about 68%, 95%, 99.7% of the area",
+        "The rule applies only to non-normal data"
+      ],
+      "id": 124
+    },
+    {
+      "text": "What is interval estimation?",
+      "options": [
+        "Testing whether a parameter equals zero",
+        "Estimating a parameter with a single number",
+        "#Estimating a population parameter with a range of values at a stated confidence level",
+        "Summarizing a sample with a graph"
+      ],
+      "id": 125
+    },
+    {
+      "text": "What is a confidence interval?",
+      "options": [
+        "A single point estimate",
+        "The middle 50% of the data",
+        "#A range of values likely to contain the population parameter at a given confidence level",
+        "The range between minimum and maximum of a sample"
+      ],
+      "id": 126
+    },
+    {
+      "text": "What does a 95% confidence interval mean?",
+      "options": [
+        "The parameter changes 95% of the time",
+        "#In the long run, 95% of such intervals would contain the true parameter",
+        "There is a 95% chance the sample mean is in the interval",
+        "95% of the data lie in the interval"
+      ],
+      "id": 127
+    },
+    {
+      "text": "How is a confidence interval constructed?",
+      "options": [
+        "Critical value ÷ sample size",
+        "Mean ÷ standard error",
+        "#Point estimate ± margin of error (critical value × standard error)",
+        "Point estimate × standard error"
+      ],
+      "id": 128
+    },
+    {
+      "text": "What is the margin of error?",
+      "options": [
+        "#The half-width of a confidence interval, reflecting its precision",
+        "The difference between mean and median",
+        "The sample size",
+        "The standard deviation of the population"
+      ],
+      "id": 129
+    },
+    {
+      "text": "How is the margin of error calculated?",
+      "options": [
+        "Sample size × standard error",
+        "Mean × critical value",
+        "Standard error ÷ critical value",
+        "#Critical value × standard error"
+      ],
+      "id": 130
+    },
+    {
+      "text": "What factors affect the margin of error?",
+      "options": [
+        "#Confidence level, sample size and variability",
+        "Only the sample mean",
+        "Only the median",
+        "The scale of measurement only"
+      ],
+      "id": 131
+    },
+    {
+      "text": "How does sample size affect the margin of error?",
+      "options": [
+        "Sample size has no effect",
+        "Larger samples give a larger margin of error",
+        "Larger samples remove all error",
+        "#Larger samples give a smaller margin of error"
+      ],
+      "id": 132
+    },
+    {
+      "text": "How does confidence level affect the margin of error?",
+      "options": [
+        "#Higher confidence gives a larger margin of error (less precision)",
+        "Higher confidence always improves precision",
+        "Confidence level has no effect",
+        "Higher confidence gives a smaller margin of error"
+      ],
+      "id": 133
+    },
+    {
+      "text": "What is the standard error?",
+      "options": [
+        "The variance of the population",
+        "The standard deviation of individual data values",
+        "The range of the sample",
+        "#The standard deviation of a sampling distribution of an estimator"
+      ],
+      "id": 134
+    },
+    {
+      "text": "What is the difference between standard deviation and standard error?",
+      "options": [
+        "#SD describes variability of individual data; SE describes variability of sample means",
+        "SD describes sample means; SE describes individual data",
+        "SE is for populations only; SD is for samples only",
+        "They are always equal"
+      ],
+      "id": 135
+    },
+    {
+      "text": "How is the standard error of the mean calculated?",
+      "options": [
+        "Standard deviation times the sample size",
+        "#Standard deviation divided by the square root of the sample size",
+        "Variance divided by n",
+        "Standard deviation squared divided by the mean"
+      ],
+      "id": 136
+    },
+    {
+      "text": "What is a null hypothesis?",
+      "options": [
+        "The statement of an effect or difference",
+        "#The statement of no effect or no difference (status quo), H0",
+        "The statement we try to prove true",
+        "The sample mean"
+      ],
+      "id": 137
+    },
+    {
+      "text": "What is an alternative hypothesis?",
+      "options": [
+        "The p-value",
+        "The statement of no effect",
+        "#The statement of an effect or difference (research hypothesis), H1 or Ha",
+        "The statement of equality"
+      ],
+      "id": 138
+    },
+    {
+      "text": "What is the difference between a one-tailed and a two-tailed alternative hypothesis?",
+      "options": [
+        "One-tailed is ≠; two-tailed is > or <",
+        "One-tailed uses two critical values; two-tailed uses one",
+        "Both use only =",
+        "#One-tailed is directional (> or <); two-tailed is non-directional (≠)"
+      ],
+      "id": 139
+    },
+    {
+      "text": "How do you determine whether to use a one-tailed or two-tailed test?",
+      "options": [
+        "Based on the sample mean after seeing the data",
+        "#Based on the research question, theory or prior evidence about direction",
+        "Based on the sample size only",
+        "Always use one-tailed"
+      ],
+      "id": 140
+    },
+    {
+      "text": "What is a one-tailed z-test?",
+      "options": [
+        "#A directional test using the z-statistic with the rejection region on one side",
+        "A test with rejection regions in both tails",
+        "A test for categorical independence",
+        "A test using the t-distribution"
+      ],
+      "id": 141
+    },
+    {
+      "text": "How is the critical value determined for a one-tailed z-test?",
+      "options": [
+        "From the chi-square table",
+        "From the z-table using alpha/2 for both sides",
+        "From the t-table using n − 1",
+        "#From the z-table using alpha for one side"
+      ],
+      "id": 142
+    },
+    {
+      "text": "What is the rejection region in a one-tailed z-test?",
+      "options": [
+        "#The extreme tail area of size alpha beyond the critical value",
+        "Both tails each of size alpha/2",
+        "The area below the mean",
+        "The center of the distribution"
+      ],
+      "id": 143
+    },
+    {
+      "text": "How is the z-test statistic calculated?",
+      "options": [
+        "#(Sample mean − population mean) ÷ standard error",
+        "Standard error ÷ (sample mean − population mean)",
+        "(Population mean − sample mean) × standard error",
+        "Sample mean ÷ standard deviation"
+      ],
+      "id": 144
+    },
+    {
+      "text": "What is the decision rule for a one-tailed z-test?",
+      "options": [
+        "Always fail to reject H0",
+        "Reject H0 if alpha is large",
+        "#Reject H0 if the test statistic falls in the rejection region beyond the critical value",
+        "Reject H0 if the test statistic equals zero"
+      ],
+      "id": 145
+    },
+    {
+      "text": "What is a two-tailed z-test?",
+      "options": [
+        "A directional test with one tail",
+        "#A non-directional test (≠) with rejection regions in both tails",
+        "A test using the t-distribution only",
+        "A test for goodness of fit"
+      ],
+      "id": 146
+    },
+    {
+      "text": "When is a two-tailed z-test appropriate?",
+      "options": [
+        "When data are categorical",
+        "#When testing for any difference (not equal) with no specified direction",
+        "When the direction is known in advance",
+        "When sigma is unknown and n is small"
+      ],
+      "id": 147
+    },
+    {
+      "text": "How is the critical value determined for a two-tailed z-test?",
+      "options": [
+        "From the chi-square table",
+        "#From the z-table using alpha/2 in each tail",
+        "From the z-table using alpha in one tail",
+        "From the t-table using n − 1"
+      ],
+      "id": 148
+    },
+    {
+      "text": "What is the rejection region in a two-tailed z-test?",
+      "options": [
+        "#Both tails, each of area alpha/2, beyond ± critical values",
+        "One tail of area alpha",
+        "The center of the curve",
+        "Both tails, each of area alpha"
+      ],
+      "id": 149
+    },
+    {
+      "text": "How is the decision made in a two-tailed z-test?",
+      "options": [
+        "#Reject H0 if the absolute value of z exceeds the critical value; otherwise fail to reject",
+        "Accept H0 if z is large",
+        "Reject H0 if z is zero",
+        "Reject H0 only if z is positive"
+      ],
+      "id": 150
+    },
+    {
+      "text": "What is a one-tailed t-test?",
+      "options": [
+        "#A directional test using the t-distribution, typically with small n and unknown sigma",
+        "A test for categorical data",
+        "A non-directional test",
+        "A directional test using the z-distribution with known sigma"
+      ],
+      "id": 151
+    },
+    {
+      "text": "When is a one-tailed t-test used instead of a z-test?",
+      "options": [
+        "When there are two populations",
+        "#When the sample is small and the population standard deviation is unknown",
+        "When data are categorical",
+        "When the population SD is known and n is large"
+      ],
+      "id": 152
+    },
+    {
+      "text": "How is the critical value determined for a one-tailed t-test?",
+      "options": [
+        "#From the t-table using degrees of freedom and alpha for one tail",
+        "From the z-table using alpha/2",
+        "From the F-table",
+        "From the chi-square table"
+      ],
+      "id": 153
+    },
+    {
+      "text": "What is the rejection region in a one-tailed t-test?",
+      "options": [
+        "The center of the t-curve",
+        "Both tails of area alpha/2",
+        "The area within one SD",
+        "#The tail beyond the critical value with area alpha, given the degrees of freedom"
+      ],
+      "id": 154
+    },
+    {
+      "text": "How is the t-test statistic calculated?",
+      "options": [
+        "s ÷ (sample mean − hypothesized mean)",
+        "Sample mean ÷ s",
+        "#(Sample mean − hypothesized mean) ÷ (s/√n)",
+        "(Hypothesized mean − sample mean) × s"
+      ],
+      "id": 155
+    },
+    {
+      "text": "What is the role of degrees of freedom in a one-tailed t-test?",
+      "options": [
+        "df determines the null hypothesis",
+        "df equals alpha",
+        "df is the sample mean",
+        "#df = n − 1 determines the t-distribution's shape and critical value"
+      ],
+      "id": 156
+    },
+    {
+      "text": "What are the assumptions of a one-tailed t-test?",
+      "options": [
+        "Known sigma and categorical data",
+        "#Random sample, independence, approximately normal population, unknown sigma",
+        "Nominal scale and no randomness",
+        "Two dependent populations"
+      ],
+      "id": 157
+    },
+    {
+      "text": "How does a one-tailed t-test differ from a one-tailed z-test?",
+      "options": [
+        "The t-test has thinner tails than the z-test",
+        "#The t-test uses the t-distribution with fatter tails for small n and unknown sigma",
+        "The t-test uses known sigma",
+        "There is no difference"
+      ],
+      "id": 158
+    },
+    {
+      "text": "What are the advantages of a one-tailed t-test?",
+      "options": [
+        "#More power in the specified direction, useful with small samples",
+        "It tests both directions equally",
+        "It requires no assumptions",
+        "It always gives smaller p-values for the wrong direction"
+      ],
+      "id": 159
+    },
+    {
+      "text": "What is a two-tailed t-test?",
+      "options": [
+        "A test for goodness of fit",
+        "A test for categorical independence",
+        "#A non-directional test (≠) using the t-distribution",
+        "A directional test using the z-distribution"
+      ],
+      "id": 160
+    },
+    {
+      "text": "When is a two-tailed t-test appropriate?",
+      "options": [
+        "When data are nominal",
+        "When n is very large and sigma is known",
+        "When the direction is known in advance and sigma is known",
+        "#When testing for any difference with no direction, small n and unknown sigma"
+      ],
+      "id": 161
+    },
+    {
+      "text": "How is the critical value determined for a two-tailed t-test?",
+      "options": [
+        "#From the t-table using alpha/2 and degrees of freedom",
+        "From the F-table using alpha",
+        "From the chi-square table",
+        "From the z-table using alpha"
+      ],
+      "id": 162
+    },
+    {
+      "text": "What is the rejection region in a two-tailed t-test?",
+      "options": [
+        "One tail with area alpha",
+        "Both tails each with area alpha",
+        "The center of the distribution",
+        "#Both tails beyond ± critical t values, each with area alpha/2"
+      ],
+      "id": 163
+    },
+    {
+      "text": "What is a test of independence?",
+      "options": [
+        "A test of whether data are normally distributed",
+        "A test of the slope in regression",
+        "A t-test comparing two means",
+        "#A chi-square test of whether two categorical variables are associated"
+      ],
+      "id": 164
+    },
+    {
+      "text": "When is a test of independence used?",
+      "options": [
+        "#When examining the association between two categorical variables",
+        "When comparing one mean to a known value",
+        "When testing one numerical variable's variance",
+        "When forecasting a time series"
+      ],
+      "id": 165
+    },
+    {
+      "text": "What are the hypotheses for a test of independence?",
+      "options": [
+        "#H0: the variables are independent; Ha: they are associated",
+        "H0: the variables are associated; Ha: they are independent",
+        "H0: the means are equal; Ha: they differ",
+        "H0: slope = 0; Ha: slope ≠ 0"
+      ],
+      "id": 166
+    },
+    {
+      "text": "How is the chi-square test statistic calculated for independence?",
+      "options": [
+        "Sum of observed × expected",
+        "Sum of (observed − expected) ÷ observed",
+        "#Sum of (observed − expected)² ÷ expected",
+        "Sum of (observed + expected)² ÷ n"
+      ],
+      "id": 167
+    },
+    {
+      "text": "What is a goodness of fit test?",
+      "options": [
+        "A test comparing two means",
+        "#A chi-square test of whether observed frequencies match an expected distribution",
+        "A test of association between two variables",
+        "A test of regression significance"
+      ],
+      "id": 168
+    },
+    {
+      "text": "When is a goodness of fit test used?",
+      "options": [
+        "#With one categorical variable to check if frequencies fit a hypothesized distribution",
+        "With two categorical variables to test association",
+        "With a time series",
+        "With two numerical variables"
+      ],
+      "id": 169
+    },
+    {
+      "text": "What are the hypotheses for a goodness of fit test?",
+      "options": [
+        "#H0: data fit the specified distribution; Ha: they do not fit",
+        "H0: variables are independent; Ha: associated",
+        "H0: slope = 0; Ha: slope ≠ 0",
+        "H0: data do not fit; Ha: they fit"
+      ],
+      "id": 170
+    },
+    {
+      "text": "How is the chi-square test statistic calculated for goodness of fit?",
+      "options": [
+        "Sum of expected − observed",
+        "Sum of observed ÷ expected",
+        "Sum of (observed − expected) × expected",
+        "#Sum of (observed − expected)² ÷ expected"
+      ],
+      "id": 171
+    },
+    {
+      "text": "What is a simple linear regression model?",
+      "options": [
+        "#A model relating one dependent variable to one independent variable by a straight line (y = a + bx)",
+        "A model for categorical variables only",
+        "A model of time trends only",
+        "A model relating many variables with curves"
+      ],
+      "id": 172
+    },
+    {
+      "text": "What is the role of the error term in a regression model?",
+      "options": [
+        "It is the slope",
+        "#It captures unexplained variation (random noise) not explained by x",
+        "It is the predicted value",
+        "It is the intercept"
+      ],
+      "id": 173
+    },
+    {
+      "text": "How are the regression coefficients estimated?",
+      "options": [
+        "By minimizing the correlation",
+        "By taking the median of y",
+        "#By least squares, minimizing the sum of squared errors (SSE)",
+        "By maximizing the sum of residuals"
+      ],
+      "id": 174
+    },
+    {
+      "text": "What are the assumptions of a simple linear regression model?",
+      "options": [
+        "Nominal data, bimodality, zero mean x, outliers",
+        "#Linearity, independence, normality of errors, homoscedasticity",
+        "Nonlinearity, dependence, skewness, heteroscedasticity",
+        "Known sigma, categorical y, n < 5"
+      ],
+      "id": 175
+    },
+    {
+      "text": "How is the goodness of fit of a regression model evaluated?",
+      "options": [
+        "Using only the sample size",
+        "Using the range of x",
+        "#Using R-squared, standard error of estimate and residual analysis",
+        "Using the mode of y"
+      ],
+      "id": 176
+    },
+    {
+      "text": "What is the difference between correlation and regression?",
+      "options": [
+        "#Correlation measures strength/direction of association; regression predicts y from x",
+        "Both prove causality",
+        "Correlation predicts y from x; regression measures only association",
+        "They are identical"
+      ],
+      "id": 177
+    },
+    {
+      "text": "What is the coefficient of determination?",
+      "options": [
+        "The slope of the regression line",
+        "The standard error of the mean",
+        "#R-squared: the proportion of total variation in y explained by the model",
+        "The intercept"
+      ],
+      "id": 178
+    },
+    {
+      "text": "How is the coefficient of determination interpreted?",
+      "options": [
+        "As the slope in original units",
+        "#As the share (0 to 1 or 0–100%) of variation in y explained by x",
+        "As the probability that H0 is true",
+        "As the size of the sample"
+      ],
+      "id": 179
+    },
+    {
+      "text": "What does an R-squared of 0.85 indicate?",
+      "options": [
+        "The slope equals 0.85",
+        "#85% of the variation in y is explained by the regression, a strong fit",
+        "85% of the data are outliers",
+        "There is a 15% chance the model is correct"
+      ],
+      "id": 180
+    },
+    {
+      "text": "How is the coefficient of determination calculated?",
+      "options": [
+        "#SSR ÷ SST (or 1 − SSE ÷ SST)",
+        "SSE × SST",
+        "SSE ÷ SSR",
+        "SST ÷ SSR"
+      ],
+      "id": 181
+    },
+    {
+      "text": "What is the relationship between R-squared and the correlation coefficient?",
+      "options": [
+        "R-squared equals r",
+        "#In simple regression, R-squared equals r squared",
+        "R-squared equals the square root of r",
+        "They are unrelated"
+      ],
+      "id": 182
+    },
+    {
+      "text": "What are the key assumptions of a linear regression model?",
+      "options": [
+        "Categorical x, nominal y, no errors, large outliers",
+        "Curved relationship, correlated errors, skewed errors, changing variance",
+        "#Linear relationship, independent errors, normally distributed errors, constant variance",
+        "Known population SD, n < 5, no randomness, bimodal errors"
+      ],
+      "id": 183
+    },
+    {
+      "text": "Why is the linearity assumption important in regression?",
+      "options": [
+        "Linearity is only needed for categorical data",
+        "#If the true relationship is not straight, the model is misspecified and estimates are biased",
+        "Linearity guarantees R-squared of 1",
+        "It is not important"
+      ],
+      "id": 184
+    },
+    {
+      "text": "What is homoscedasticity?",
+      "options": [
+        "#Constant variance of the residuals across all values of x",
+        "Non-normal residuals",
+        "Increasing variance of residuals",
+        "Correlated residuals"
+      ],
+      "id": 185
+    },
+    {
+      "text": "What is heteroscedasticity?",
+      "options": [
+        "Normal residuals",
+        "#Unequal (non-constant) variance of residuals, often a funnel shape, violating an assumption",
+        "A perfect linear fit",
+        "Constant variance of residuals"
+      ],
+      "id": 186
+    },
+    {
+      "text": "What is a significance test in regression?",
+      "options": [
+        "A test of data scale",
+        "A test of the mean of x",
+        "A test of the sample size",
+        "#A test (t or F) of whether the slope or model differs from zero, using p-values"
+      ],
+      "id": 187
+    },
+    {
+      "text": "What is the null hypothesis for testing the significance of the slope?",
+      "options": [
+        "H0: the mean equals the median",
+        "H0: β ≠ 0",
+        "H0: R-squared = 1",
+        "#H0: β = 0 (no relationship between x and y)"
+      ],
+      "id": 188
+    },
+    {
+      "text": "How is the t-test used to test the significance of the slope?",
+      "options": [
+        "t = R-squared ÷ n",
+        "#t = b1 ÷ standard error of b1, compared to critical values or via a p-value",
+        "t = intercept ÷ slope",
+        "t = b1 × standard error"
+      ],
+      "id": 189
+    },
+    {
+      "text": "What is the F-test used for in regression?",
+      "options": [
+        "Comparing two sample means only",
+        "Testing normality of x",
+        "Testing only the intercept",
+        "#Testing the overall significance of the model (all coefficients) via ANOVA"
+      ],
+      "id": 190
+    },
+    {
+      "text": "What is a time series?",
+      "options": [
+        "Data of categories only",
+        "Data collected from many units at one moment",
+        "#Data recorded in chronological order over time intervals",
+        "Data with no order"
+      ],
+      "id": 191
+    },
+    {
+      "text": "What is a trend in a time series?",
+      "options": [
+        "#A long-term increase or decrease in the data",
+        "Business-cycle swings longer than a year",
+        "A repeating pattern within a year",
+        "Random fluctuations"
+      ],
+      "id": 192
+    },
+    {
+      "text": "What is seasonality in a time series?",
+      "options": [
+        "#A repeating pattern at a fixed period, such as within a year",
+        "A one-time shock",
+        "A long-term direction",
+        "Irregular random noise"
+      ],
+      "id": 193
+    },
+    {
+      "text": "What is a cyclical pattern in a time series?",
+      "options": [
+        "Long-term straight-line growth",
+        "Purely random noise",
+        "Fixed within-year patterns",
+        "#Fluctuations lasting longer than a year, like business cycles, with irregular timing"
+      ],
+      "id": 194
+    },
+    {
+      "text": "What are nonparametric methods?",
+      "options": [
+        "Methods used only for ratio data",
+        "Methods that estimate means only",
+        "Methods that require normality",
+        "#Distribution-free methods that make few assumptions and often use ranks"
+      ],
+      "id": 195
+    },
+    {
+      "text": "When are nonparametric methods preferred over parametric methods?",
+      "options": [
+        "With large normal samples and interval data",
+        "When sigma is known",
+        "When the mean is the only target",
+        "#With non-normal data, ordinal data, small samples or outliers"
+      ],
+      "id": 196
+    },
+    {
+      "text": "What is the difference between parametric and nonparametric tests?",
+      "options": [
+        "Parametric tests use ranks; nonparametric assume normality",
+        "Both require identical assumptions",
+        "Parametric tests are only for nominal data",
+        "#Parametric tests assume a distribution and use means; nonparametric use ranks/medians with fewer assumptions"
+      ],
+      "id": 197
+    },
+    {
+      "text": "What are common nonparametric tests?",
+      "options": [
+        "z-test, t-test, F-test, ANOVA",
+        "Simple and multiple linear regression",
+        "Chi-square only",
+        "#Sign test, Wilcoxon tests, Mann-Whitney, Kruskal-Wallis, rank correlation"
+      ],
+      "id": 198
+    },
+    {
+      "text": "What is the sign test?",
+      "options": [
+        "A test of association between categorical variables",
+        "A test of regression slope",
+        "#A nonparametric test for paired data based on the signs (+/−) of differences, testing the median",
+        "A parametric test comparing two means"
+      ],
+      "id": 199
+    },
+    {
+      "text": "When is the sign test used?",
+      "options": [
+        "For two independent normal samples",
+        "For a single categorical variable",
+        "For three or more independent groups",
+        "#For paired data that are non-normal or ordinal, to test a median"
+      ],
+      "id": 200
+    },
+    {
+      "text": "What are the hypotheses for the sign test?",
+      "options": [
+        "#H0: the median difference equals zero (equal); Ha: it does not",
+        "H0: the means differ; Ha: the means are equal",
+        "H0: variables are independent; Ha: dependent",
+        "H0: slope = 0; Ha: slope ≠ 0"
+      ],
+      "id": 201
+    },
+    {
+      "text": "How is the sign test statistic calculated?",
+      "options": [
+        "Sum all squared differences",
+        "Sum the ranks of the positive differences",
+        "#Count the positive and negative signs and use the smaller count",
+        "Divide the mean by the standard error"
+      ],
+      "id": 202
+    },
+    {
+      "text": "What is the Wilcoxon signed-rank test?",
+      "options": [
+        "A test for three or more groups",
+        "#A nonparametric paired test that ranks absolute differences and uses their signs",
+        "A parametric test using the t-distribution",
+        "A test for two independent samples using combined ranks"
+      ],
+      "id": 203
+    },
+    {
+      "text": "When is the Wilcoxon signed-rank test used?",
+      "options": [
+        "For categorical independence",
+        "For three or more independent groups",
+        "For two independent groups",
+        "#For paired data that are non-normal or ordinal, testing the median difference"
+      ],
+      "id": 204
+    },
+    {
+      "text": "What are the hypotheses for the Wilcoxon signed-rank test?",
+      "options": [
+        "H0: median difference ≠ 0; Ha: = 0",
+        "#H0: median difference = 0; Ha: median difference ≠ 0",
+        "H0: all group medians differ; Ha: they are equal",
+        "H0: variables are associated; Ha: independent"
+      ],
+      "id": 205
+    },
+    {
+      "text": "How is the Wilcoxon signed-rank test statistic calculated?",
+      "options": [
+        "Count the number of plus signs only",
+        "Divide the mean difference by its standard error",
+        "Sum (observed − expected)² ÷ expected",
+        "#Rank the absolute differences, attach signs, and sum the positive (or negative) ranks"
+      ],
+      "id": 206
+    },
+    {
+      "text": "What is the Mann-Whitney-Wilcoxon test?",
+      "options": [
+        "A parametric test comparing two means",
+        "A nonparametric test for paired data",
+        "A test for three or more groups",
+        "#A nonparametric test comparing two independent samples using ranks"
+      ],
+      "id": 207
+    },
+    {
+      "text": "When is the Mann-Whitney-Wilcoxon test used?",
+      "options": [
+        "To compare paired data",
+        "To test one categorical variable",
+        "To compare three or more groups",
+        "#To compare two independent groups when data are non-normal or ordinal"
+      ],
+      "id": 208
+    },
+    {
+      "text": "What are the hypotheses for the Mann-Whitney-Wilcoxon test?",
+      "options": [
+        "#H0: the two population medians are equal; Ha: they differ",
+        "H0: the medians differ; Ha: they are equal",
+        "H0: variables are independent; Ha: dependent",
+        "H0: slope = 0; Ha: slope ≠ 0"
+      ],
+      "id": 209
+    },
+    {
+      "text": "How is the Mann-Whitney-Wilcoxon test statistic calculated?",
+      "options": [
+        "Rank only the absolute paired differences",
+        "Count positive and negative signs",
+        "#Combine both samples, rank all values, and use the sum of ranks (U statistic)",
+        "Sum (observed − expected)² ÷ expected"
+      ],
+      "id": 210
+    },
+    {
+      "text": "What is the Kruskal-Wallis test?",
+      "options": [
+        "A test for regression significance",
+        "A test of normality",
+        "A nonparametric test for two paired samples",
+        "#A nonparametric alternative to one-way ANOVA for three or more groups using ranks"
+      ],
+      "id": 211
+    },
+    {
+      "text": "When is the Kruskal-Wallis test used?",
+      "options": [
+        "To test one proportion",
+        "To compare exactly two independent groups",
+        "To compare two paired groups",
+        "#To compare three or more independent groups when data are non-normal or ordinal"
+      ],
+      "id": 212
+    },
+    {
+      "text": "What are the hypotheses for the Kruskal-Wallis test?",
+      "options": [
+        "H0: all group medians differ; Ha: all are equal",
+        "#H0: all group medians are equal; Ha: at least one differs",
+        "H0: exactly two medians are equal; Ha: others differ",
+        "H0: slope = 0; Ha: slope ≠ 0"
+      ],
+      "id": 213
+    },
+    {
+      "text": "How is the Kruskal-Wallis test statistic calculated?",
+      "options": [
+        "Divide the mean by the standard error",
+        "Count positive and negative signs",
+        "#Combine all groups, rank the values, and compute H from the rank sums",
+        "Rank absolute paired differences"
+      ],
+      "id": 214
+    },
+    {
+      "text": "What is the difference between a population and a sample?",
+      "options": [
+        "#A population is the entire group of interest; a sample is a subset of it",
+        "They are identical",
+        "A population is a subset; a sample is the entire group",
+        "A population is always smaller than a sample"
+      ],
+      "id": 215
+    },
+    {
+      "text": "What is the difference between descriptive and inferential statistics?",
+      "options": [
+        "There is no difference",
+        "#Descriptive summarizes data; inferential generalizes from a sample to a population",
+        "Descriptive generalizes to a population; inferential only summarizes",
+        "Descriptive uses probability; inferential uses only graphs"
+      ],
+      "id": 216
+    },
+    {
+      "text": "What is the difference between a confidence interval and a hypothesis test?",
+      "options": [
+        "A CI uses only categorical data",
+        "Both only describe a sample",
+        "A CI makes a yes/no decision; a test gives a range",
+        "#A CI estimates a range for a parameter; a hypothesis test makes a decision about a claim"
+      ],
+      "id": 217
+    }
+  ]
+}
